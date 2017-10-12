@@ -1,0 +1,4829 @@
+name,times,rank
+Bradley Efron,47,1
+Leo A. Goodman,39,2
+Willford I. King,26,3
+Robert V. Hogg,25,4
+Paul R. Rider,24,5
+R. Dennis Cook,24,5
+Jianqing Fan,24,5
+W. Edwards Deming,23,6
+Arnold Zellner,22,7
+Des Raj,22,7
+John E. Walsh,22,7
+Max Halperin,21,8
+Walter F. Willcox,20,9
+Bruce M. Hill,19,10
+Paul R. Rosenbaum,19,10
+W. L. Crum,18,11
+Irving H. Siegel,18,11
+Raymond J. Carroll,17,12
+Allan Birnbaum,16,13
+Joseph Berkson M.D.,16,13
+Howard L. Jones,16,13
+S. James Press,16,13
+Leslie Kish,15,14
+J. N. K. Rao,15,14
+Stephen M. Stigler,14,15
+Henry Scheffé,14,15
+Carl Snyder,14,15
+Joseph Berkson,13,16
+Nathan Keyfitz,13,16
+Robert Ferber,13,16
+George Casella,13,16
+Xiaotong Shen,13,16
+Joseph L. Gastwirth,12,17
+Pranab Kumar Sen,12,17
+B. K. Ghosh,12,17
+David A. Harville,12,17
+T. W. Anderson,12,17
+D. G. Kabe,12,17
+Lionel Weiss,12,17
+W. G. Cochran,12,17
+Gottfried E. Noether,12,17
+Y. S. Leong,12,17
+Dudley J. Cowden,12,17
+Robert J. Myers,12,17
+Simon Kuznets,12,17
+Irving Fisher,12,17
+Glen Meeden,12,17
+Barry C. Arnold,12,17
+Peter Hall,12,17
+Sam Efromovich,12,17
+Donald B. Rubin,11,18
+Joseph B. Kadane,11,18
+Colin R. Blyth,11,18
+Arthur Cohen,11,18
+Morris H. Hansen,11,18
+L. J. Wei,11,18
+John W. Pratt,11,18
+W. Allen Wallis,11,18
+Richard E. Quandt,11,18
+Robert L. Winkler,11,18
+R. L. Basmann,11,18
+E. J. Gumbel,11,18
+Holbrook Working,11,18
+Faming Liang,11,18
+Andrew Gelman,11,18
+Paul R Rosenbaum,10,19
+Ronald H. Randles,10,19
+Alan E. Gelfand,10,19
+William S. Cleveland,10,19
+Stephen E. Fienberg,10,19
+J. A. Hartigan,10,19
+R. L. Anderson,10,19
+Seymour Sudman,10,19
+Stanley L. Warner,10,19
+Gary G. Koch,10,19
+S. Zacks,10,19
+Frederic M. Lord,10,19
+A. Ross Eckler,10,19
+F. J. Anscombe,10,19
+Ralph J. Watkins,10,19
+Stuart A. Rice,10,19
+George W. Snedecor,10,19
+Frederick C. Mills,10,19
+P. K. Whelpton,10,19
+Leon E. Truesdell,10,19
+Frederick E. Croxton,10,19
+Valen E. Johnson,10,19
+Jun Shao,10,19
+M. L. Tiku,10,19
+Frederick Mosteller,10,19
+Ta-Hsin Li,10,19
+D. A. S. Fraser,9,20
+Michael G. Akritas,9,20
+Douglas M. Hawkins,9,20
+Alan Agresti,9,20
+I. J. Good,9,20
+Seymour Geisser,9,20
+David A. Pierce,9,20
+Paul S. Dwyer,9,20
+Ralph S. Woodruff,9,20
+Jerome Cornfield,9,20
+K. A. Brownlee,9,20
+Armen A. Alchian,9,20
+Harold Hotelling,9,20
+Alfred J. Lotka,9,20
+A. Ronald Gallant,9,20
+Olive Jean Dunn,9,20
+Yijian Huang,9,20
+Hemant Ishwaran,8,21
+Joseph I. Naus,8,21
+Roderick J. A. Little,8,21
+Terence J. O'neill,8,21
+Rudolf Beran,8,21
+Stanley K. Smith,8,21
+Wei-Yin Loh,8,21
+Michael A. Fligner,8,21
+John Neter,8,21
+Richard M. Royall,8,21
+Eve Bofinger,8,21
+Robert F. Ling,8,21
+Franklin A. Graybill,8,21
+John W. Tukey,8,21
+Kul B. Bhatia,8,21
+Paul N. Somerville,8,21
+M. A. Stephens,8,21
+R. J. Jessen,8,21
+Sidney Addelman,8,21
+W. H. Williams,8,21
+Acheson J. Duncan,8,21
+Frederick V. Waugh,8,21
+Zakkula Govindarajulu,8,21
+A. Clifford Cohen Jr.,8,21
+I. Richard Savage,8,21
+G. A. Baker,8,21
+Solomon Fabricant,8,21
+A. C. Cohen Jr.,8,21
+Max A. Woodbury,8,21
+Louis I. Dublin,8,21
+W. Randolph Burgess,8,21
+Rufus S. Tucker,8,21
+David M. Schneider,8,21
+Gladys L. Palmer,8,21
+R. von Huhn,8,21
+A. E. Brandt,8,21
+Burton H. Camp,8,21
+George R. Davies,8,21
+Hua Yun Chen,8,21
+Michael Goldstein,8,21
+H. O. Stekler,8,21
+Diane Lambert,8,21
+W. A. Ericson,8,21
+Ker-Chau Li,8,21
+Lawrence D. Brown,7,22
+James O. Berger,7,22
+Yongtao Guan,7,22
+David B Dunson,7,22
+Robert L. Strawderman,7,22
+Ronald Christensen,7,22
+Ruey S. Tsay,7,22
+Adrian E. Raftery,7,22
+Noel Cressie,7,22
+James M. Dickey,7,22
+Carl-Erik Särndal,7,22
+Charles W. Dunnett,7,22
+Jerome H. Friedman,7,22
+George Y. Wong,7,22
+A. P. Dempster,7,22
+Leon Jay Gleser,7,22
+Yosef Hochberg,7,22
+Poduri S. R. S. Rao,7,22
+Chien-Pai Han,7,22
+J. S. Mehta,7,22
+Takeshi Amemiya,7,22
+Geoffrey H. Moore,7,22
+Dale W. Jorgenson,7,22
+Frederick F. Stephan,7,22
+R. F. Tate,7,22
+Morris A. Copeland,7,22
+Henry S. Shryock Jr.,7,22
+William A. Spurr,7,22
+Mordecai Ezekiel,7,22
+Malay Ghosh,7,22
+H. Leon Harter,7,22
+Roger Koenker,7,22
+Myles Hollander,7,22
+W. J. Conover,7,22
+Henri Theil,7,22
+M. A. Hamdan,7,22
+Hongtu Zhu,6,23
+Donglin Zeng,6,23
+Zhiqiang Tan,6,23
+Thomas P. Hettmansperger,6,23
+Charles E. McCulloch,6,23
+Richard Royall,6,23
+Mike West,6,23
+Joan G. Staniswalis,6,23
+Andrew L. Rukhin,6,23
+R. L. Eubank,6,23
+Thomas A. Severini,6,23
+Roger L. Berger,6,23
+Chong Gu,6,23
+C. Villegas,6,23
+David C. Hoaglin,6,23
+Paul W. Holland,6,23
+Franklin M. Fisher,6,23
+D. J. Finney,6,23
+Corwin L. Atwood,6,23
+George Marsaglia,6,23
+John J. Spitzer,6,23
+A. P. Basu,6,23
+Andrew P. Soms,6,23
+H. O. Hartley,6,23
+William J. Hemmerle,6,23
+Dana Quade,6,23
+W. J. Krzanowski,6,23
+Edward E. Leamer,6,23
+J. Sedransk,6,23
+Gary Simon,6,23
+Douglas A. Wolfe,6,23
+Ian R. James,6,23
+Gad Nathan,6,23
+V. Kerry Smith,6,23
+Philip J. McCarthy,6,23
+Helena Chmura Kraemer,6,23
+Bradford R. Crain,6,23
+I. P. Fellegi,6,23
+Mervyn Stone,6,23
+R. E. Little,6,23
+F. K. Hwang,6,23
+Henry R. Neave,6,23
+C. G. Khatri,6,23
+W. M. Mikhail,6,23
+Christopher A. Sims,6,23
+A. R. Gallant,6,23
+Donald H. Ebbeler,6,23
+Kok-Huat Lee,6,23
+H. A. David,6,23
+James M. Holmes,6,23
+Gerald J. Hahn,6,23
+C. Radhakrishna Rao,6,23
+Jerzy Neyman,6,23
+Irving H. LaValle,6,23
+Donald T. Searls,6,23
+S. M. Shah,6,23
+Walter A. Hendricks,6,23
+Albert Madansky,6,23
+Harvey M. Wagner,6,23
+Gerhard Tintner,6,23
+Paul J. Fitzpatrick,6,23
+Alan Stuart,6,23
+William G. Cochran,6,23
+Herman P. Miller,6,23
+Clyde V. Kiser,6,23
+W. Duane Evans,6,23
+Joseph S. Davis,6,23
+Willard L. Thorp,6,23
+Wirth F. Ferger,6,23
+C. I. Bliss,6,23
+Vergil D. Reed,6,23
+E. A. Goldenweiser,6,23
+A. F. Hinrichs,6,23
+Halbert L. Dunn M.D.,6,23
+Leland Rex Robinson,6,23
+Theodore H. Brown,6,23
+R. H. Coats,6,23
+Walter Mitchell Jr.,6,23
+Edwin B. Wilson,6,23
+Meredith B. Givens,6,23
+G. P. Watkins,6,23
+Aurore Delaigle,6,23
+Michael E. Sobel,6,23
+S. A. Murphy,6,23
+Wolfgang Härdle,6,23
+Paul Meier,6,23
+Lee J. Bain,6,23
+Heping Zhang,6,23
+Ming-Hui Chen,6,23
+Weizhen Wang,6,23
+Hans-Georg Müller,6,23
+Barbara A. Bailar,6,23
+Bernard Harris,6,23
+Marakatha Krishnan,6,23
+Yoav Benjamini,6,23
+Saul Blumenthal,6,23
+Nilanjan Chatterjee,5,24
+Francesco Bartolucci,5,24
+Kosuke Imai,5,24
+Holger Dette,5,24
+Christopher R. Genovese,5,24
+Peter D Hoff,5,24
+James M. Robins,5,24
+George T. Duncan,5,24
+A. P. Dawid,5,24
+Dennis D. Boos,5,24
+Mark P. Becker,5,24
+Jun S. Liu,5,24
+David S. Stoffer,5,24
+Masahito Kobayashi,5,24
+Song Yang,5,24
+Jeffrey D. Hart,5,24
+F. Thomas Juster,5,24
+Carey E. Priebe,5,24
+R. J. Carroll,5,24
+Zvi Gilula,5,24
+Francisco J. Samaniego,5,24
+Nancy R. Mann,5,24
+Charles F. Manski,5,24
+Kirk M. Wolter,5,24
+Robert A. Stine,5,24
+Bruce D. Spencer,5,24
+James J. Heckman,5,24
+Norman Breslow,5,24
+Michael E. Tarter,5,24
+John D. Spurrier,5,24
+Eugene P. Ericksen,5,24
+Halbert White,5,24
+Jukka Nyblom,5,24
+K. R. W. Brewer,5,24
+Genshiro Kitagawa,5,24
+George E. P. Box,5,24
+Jerry G. Thursby,5,24
+Khursheed Alam,5,24
+K. R. Gabriel,5,24
+T. A. Bancroft,5,24
+E. L. Lehmann,5,24
+Rupert G. Miller Jr.,5,24
+George S. Fishman,5,24
+Kimio Morimune,5,24
+Wayne A. Fuller,5,24
+Young Jack Lee,5,24
+Ivan P. Fellegi,5,24
+Otis Dudley Duncan,5,24
+Lalitha Sanathanan,5,24
+Lynn Roy Lamotte,5,24
+E. J. Hannan,5,24
+Theodore Colton,5,24
+Jagdish K. Patel,5,24
+K. M. Lal Saxena,5,24
+Pi-Erh Lin,5,24
+Monroe G. Sirken,5,24
+Nathan Mantel,5,24
+R. K. Tsutakawa,5,24
+Michael E. Borus,5,24
+Arthur S. Goldberger,5,24
+V. N. Murty,5,24
+Robert J. Connor,5,24
+Edwin H. Chen,5,24
+Frank T. Denton,5,24
+N. L. Johnson,5,24
+Michael C. Lovell,5,24
+M. A. El-Badry,5,24
+J. H. Klotz,5,24
+Z. W. Birnbaum,5,24
+Edwin L. Crow,5,24
+H. Theil,5,24
+Philip M. Hauser,5,24
+William H. Kruskal,5,24
+Morris James Slonim,5,24
+Samuel A. Stouffer,5,24
+Benjamin Epstein,5,24
+Bruce D. Mudgett,5,24
+Edwin G. Olds,5,24
+Harold F. Dorn,5,24
+Frank E. Grubbs,5,24
+Lila F. Knudsen,5,24
+Ragnar Frisch,5,24
+Frank R. Garfield,5,24
+T. J. Woofter Jr.,5,24
+Truman L. Kelley,5,24
+Faith M. Williams,5,24
+Aryness Joy,5,24
+William F. Ogburn,5,24
+Alberto Abadie,5,24
+Deborah Burr,5,24
+Ngai Hang Chan,5,24
+Moshe Shaked,5,24
+G. E. P. Box,5,24
+R. R. Hocking,5,24
+Clifford Hildreth,5,24
+A. A. Afifi,5,24
+Herbert C. Rutemiller,5,24
+José R. Zubizarreta,5,24
+Zongwu Cai,5,24
+Efstathios Paparoditis,5,24
+Nathaniel Schenker,5,24
+Xuming He,5,24
+Peter Müller,5,24
+Stephen Portnoy,5,24
+Tony Lancaster,5,24
+Gang Li,5,24
+S. N. Singh,5,24
+Irving W. Burr,5,24
+Daniel Peña,4,25
+Ying Wei,4,25
+Marc Hallin,4,25
+Lu Tian,4,25
+Subharup Guha,4,25
+Dan Nettleton,4,25
+Hansheng Wang,4,25
+Dylan S Small,4,25
+S. L Zabell,4,25
+Tilmann Gneiting,4,25
+Jeffrey S Morris,4,25
+Nils Lid Hjort,4,25
+Chang Xuan Mao,4,25
+Nozer D Singpurwalla,4,25
+Joel L Horowitz,4,25
+Steven L Scott,4,25
+Lang Wu,4,25
+Rafael A Irizarry,4,25
+Edward I. George,4,25
+James P. Hobert,4,25
+Ehsan S. Soofi,4,25
+William E. Strawderman,4,25
+Kathryn Roeder,4,25
+Eric D. Kolaczyk,4,25
+David S. Moore,4,25
+Elizabeth A. Stasny,4,25
+Ronald W. Butler,4,25
+Yazhen Wang,4,25
+M. C. Jones,4,25
+Dei-In Tang,4,25
+Cheng Hsiao,4,25
+James H. Albert,4,25
+Regina Y. Liu,4,25
+Sung K. Ahn,4,25
+Mervyn J. Silvapulle,4,25
+Mitchell H. Gail,4,25
+Blaza Toman,4,25
+C. J. Skinner,4,25
+Ester Samuel-Cahn,4,25
+Timothy C. Haas,4,25
+Lawrence H. Cox,4,25
+Harry Joe,4,25
+Samuel Merrill III,4,25
+Richard L. Schmoyer,4,25
+Carlo Grillenzoni,4,25
+Dorota M. Dabrowska,4,25
+James R. Schott,4,25
+George S. Easton,4,25
+Salomon Minkin,4,25
+Finbarr O'sullivan,4,25
+William Thomas,4,25
+Peter Bacchetti,4,25
+Naihua Duan,4,25
+Joseph P. Romano,4,25
+A. J. Hayter,4,25
+J. O. Ramsay,4,25
+William Kruskal,4,25
+Gregg E. Dinse,4,25
+Nozer D. Singpurwalla,4,25
+Olivier Guilbaud,4,25
+Paul S. Horn,4,25
+David W. Scott,4,25
+Gideon Schwarz,4,25
+Nan Laird,4,25
+Daniel Q. Naiman,4,25
+Dennis E. Jennings,4,25
+Jeffrey S. Simonoff,4,25
+Juliet Popper Shaffer,4,25
+Irwin Greenberg,4,25
+Charles H. Proctor,4,25
+Ajit C. Tamhane,4,25
+Stephen M. Samuels,4,25
+David Tritchler,4,25
+Wassily Hoeffding,4,25
+Melvin J. Hinich,4,25
+Evan P. Smouse,4,25
+Arthur J. Roth,4,25
+Ben-Chieh Liu,4,25
+David Kaye,4,25
+Thomas S. Ferguson,4,25
+A. W. Davis,4,25
+Charles R. Nelson,4,25
+D. A. Hsu,4,25
+John McDonald,4,25
+J. F. Lawless,4,25
+Ramon C. Littell,4,25
+Robert V. Foutz,4,25
+Steven F. Arnold,4,25
+Hans U. Gerber,4,25
+David Harville,4,25
+Baldev Raj,4,25
+Waldo R. Tobler,4,25
+Thomas W. Epps,4,25
+William W. Davis,4,25
+Roscoe R. Braham Jr.,4,25
+Emanuel Parzen,4,25
+J. S. Williams,4,25
+Allan R. Sampson,4,25
+Philip H. Ramsey,4,25
+H. S. Steyn,4,25
+Dale J. Poirier,4,25
+Kenneth N. Berk,4,25
+Mervin E. Muller,4,25
+J. Kiefer,4,25
+Leo Katz,4,25
+W. Y. Tan,4,25
+P. A. V. B. Swamy,4,25
+Alan M. Gross,4,25
+Jonas H. Ellenberg,4,25
+Peter Schmidt,4,25
+Sandra A. West,4,25
+Martin Feldstein,4,25
+Hrishikesh D. Vinod,4,25
+Joel E. Cohen,4,25
+Gregory C. Chow,4,25
+Ann R. Miller,4,25
+F. W. McElroy,4,25
+Richard H. Jones,4,25
+Ronald E. Glaser,4,25
+James E. Pesando,4,25
+J. C. Young,4,25
+Elliot M. Cramer,4,25
+Soo-Bin Park,4,25
+Lawrence S. Mayer,4,25
+Nagesh S. Revankar,4,25
+Ratnam V. Chitturi,4,25
+Sonja M. McKinlay,4,25
+Herman Chernoff,4,25
+Robin M. Hogarth,4,25
+Ronald Demos Lee,4,25
+Thomas M. Gerig,4,25
+Farhad Mehran,4,25
+Herman Burstein,4,25
+Kashinath D. Patil,4,25
+Edward Greenberg,4,25
+Paul L. Canner,4,25
+G. K. Bhattacharyya,4,25
+Lai K. Chan,4,25
+W. G. Howe,4,25
+Charles E. Land,4,25
+Andre G. Laurent,4,25
+Paul B. Slater,4,25
+Morris H. Degroot,4,25
+Alan R. Dyer,4,25
+John Conlisk,4,25
+Ram C. Dahiya,4,25
+David S. Huang,4,25
+Larry H. Long,4,25
+Theodor D. Sterling,4,25
+Clyde A. McGilchrist,4,25
+Peter J. Cooke,4,25
+Gordon R. Antelman,4,25
+D. R. Jensen,4,25
+Daniel L. Solomon,4,25
+T. W. F. Stroud,4,25
+Edward J. Dudewicz,4,25
+D. Peter Mazur,4,25
+George Minton,4,25
+K. S. Banerjee,4,25
+Galen R. Shorack,4,25
+Robert G. Easterling,4,25
+Gerald J. Lieberman,4,25
+Richard W. Parks,4,25
+Donald F. Morrison,4,25
+R. A. Holmes,4,25
+David H. Richardson,4,25
+Carl M. Metzler,4,25
+Joseph L. Fleiss,4,25
+Erna M. J. Herrey,4,25
+Friedrich Gebhardt,4,25
+K. R. Shah,4,25
+F. E. Steffens,4,25
+M. N. Murthy,4,25
+Maw Lin Lee,4,25
+Victor Chew,4,25
+Bruce Hoadley,4,25
+J. Durbin,4,25
+Ester Samuel,4,25
+George Zyskind,4,25
+William C. Boyd,4,25
+Lajos Takács,4,25
+H. Neudecker,4,25
+W. R. Blischke,4,25
+Melvin Zelnik,4,25
+J. I. Naus,4,25
+Hubert W. Lilliefors,4,25
+Paul A. Samuelson,4,25
+James R. Thompson,4,25
+Frederick S. Hillier,4,25
+Harry V. Roberts,4,25
+C. Ramankutty Nair,4,25
+Hiralal Agrawal,4,25
+Marion Clawson,4,25
+Henry Anderson,4,25
+Oscar Kempthorne,4,25
+William C. Guenther,4,25
+W. J. Dixon,4,25
+Charles R. Kingston,4,25
+Jack Capon,4,25
+Albert H. Bowker,4,25
+Lincoln E. Moses,4,25
+William J. Mackinnon,4,25
+George W. Ladd,4,25
+Bert G. Hickman,4,25
+Sylvain Ehrenfeld,4,25
+W. J. Youden,4,25
+Milton Friedman,4,25
+Bernard D. Karpinos,4,25
+Gerald J. Glasser,4,25
+John Mandel,4,25
+John E. Freund,4,25
+D. S. Robson,4,25
+Walter D. Fisher,4,25
+Bradford F. Kimball,4,25
+J. Edward Jackson,4,25
+S. I. Askovitz,4,25
+K. C. Seal,4,25
+B. L. Welch,4,25
+Norman R. Garner,4,25
+K. V. Ramachandran,4,25
+Abbott S. Weinstein,4,25
+Paul B. Simpson,4,25
+A. C. Rosander,4,25
+William R. Leonard,4,25
+Helen M. Walker,4,25
+Richard J. Foote,4,25
+P. G. Moore,4,25
+Gertrude M. Cox,4,25
+Thornton C. Fry,4,25
+David Durand,4,25
+Morton S. Raff,4,25
+C. A. Moser,4,25
+Lawrence H. Seltzer,4,25
+Herbert Marshall,4,25
+Dorothy S. Brady,4,25
+Walter L. Deemer Jr.,4,25
+Herbert A. Simon,4,25
+E. P. King,4,25
+Stanley Lebergott,4,25
+Tillman M. Sogge,4,25
+H. Weiler,4,25
+Halbert L. Dunn,4,25
+Lowell J. Reed,4,25
+William G. Madow,4,25
+Glenn E. McLaughlin,4,25
+S. S. Wilks,4,25
+F. Yates,4,25
+Benjamin Malzberg,4,25
+Lillian H. Madow,4,25
+Alfred Politz,4,25
+David Novick,4,25
+Clark Warburton,4,25
+Edward A. Lew,4,25
+Walter Schilling M.D.,4,25
+Isador Lubin,4,25
+E. Dana Durand,4,25
+Howard B. Myers,4,25
+Zenon Szatrowski,4,25
+Robert Morse Woodbury,4,25
+Richard O. Lang,4,25
+Howard G. Brunsman,4,25
+Joseph A. Pierce,4,25
+Tseng-Tung Cheng,4,25
+Leonard Ascher,4,25
+Vladimir S. Kolesnikoff,4,25
+Herbert G. Smith,4,25
+G. R. Davies,4,25
+Leslie E. Simon,4,25
+L. C. Wilcoxen,4,25
+Marion M. Sandomire,4,25
+Alba M. Edwards,4,25
+H. Gregg Lewis,4,25
+Norris O. Johnson,4,25
+Francis McIntyre,4,25
+F. Leslie Hayford,4,25
+Dwight B. Yntema,4,25
+Raymond Pearl,4,25
+Jacob Perlman,4,25
+Don D. Humphrey,4,25
+L. D. H. Weld,4,25
+David Weintraub,4,25
+Edward E. Lewis,4,25
+Hugo Muench,4,25
+A. L. Bowley,4,25
+Leonard Kuvin,4,25
+M. C. Rorty,4,25
+Robert E. Chaddock,4,25
+Arch D. Schultz,4,25
+Louis Bader,4,25
+John R. Riggleman,4,25
+Henry Schultz,4,25
+John H. Cover,4,25
+Emmett H. Welch,4,25
+L. H. Bean,4,25
+Jean Downes,4,25
+Bradford B. Smith,4,25
+Walter Crosby Eells,4,25
+Forrest Bee Ashby,4,25
+F. L. Carmichael,4,25
+Leonard P. Ayres,4,25
+Karl G. Karsten,4,25
+Warren S. Thompson,4,25
+Helen D. Falkner,4,25
+Edward P. Neale,4,25
+Leroy E. Peabody,4,25
+Lincoln W. Hall,4,25
+Paul H. Douglas,4,25
+Sir George H. Knibbs,4,25
+Warren M. Persons,4,25
+Franz Boas,4,25
+W. A. Berridge,4,25
+Ryan Martin,4,25
+Lan Wang,4,25
+Bing Li,4,25
+Michael Smith,4,25
+Yanyuan Ma,4,25
+M. J. Bayarri,4,25
+L. A. Stefanski,4,25
+Mei-Cheng Wang,4,25
+Carmen Fernández,4,25
+Joshua D. Angrist,4,25
+Joseph G. Ibrahim,4,25
+Bruce G. Lindsay,4,25
+Jonathan Raz,4,25
+Frank B. Baker,4,25
+Jiming Jiang,4,25
+C. F. Jeff Wu,4,25
+Li Ma,4,25
+Ying Qing Chen,4,25
+Iain M. Johnstone,4,25
+Danny Pfeffermann,4,25
+Siddhartha Chib,4,25
+Halina Frydman,4,25
+John Geweke,4,25
+Ola Hössjer,4,25
+Chuanhai Liu,4,25
+J. L. Gastwirth,4,25
+Stanley L. Sclove,4,25
+S. N. Nath,4,25
+Raymond T. Bowman,4,25
+Malcolm J. Slakter,4,25
+Ansley J. Coale,4,25
+Ira Rosenwaike,4,25
+S. G. Prabhu Ajgaonkar,4,25
+Martin Schatzoff,4,25
+Colin B. Fogarty,3,26
+Ming-Yen Cheng,3,26
+Matthew Plumlee,3,26
+Chiung-Yu Huang,3,26
+T. Tony Cai,3,26
+Peter Radchenko,3,26
+Markus Frölich,3,26
+Antonio Lijoi,3,26
+Shelby J. Haberman,3,26
+Sudipto Banerjee,3,26
+Jianhua Hu,3,26
+Guosheng Yin,3,26
+Yu Shen,3,26
+Minge Xie,3,26
+Jiahua Chen,3,26
+Hua Liang,3,26
+Piotr Fryzlewicz,3,26
+Qing Liu,3,26
+Peihua Qiu,3,26
+Jianguo Sun,3,26
+Jerome P Reiter,3,26
+David A Harville,3,26
+Ming Yuan,3,26
+Yi Li,3,26
+D. Y Lin,3,26
+Pedro Puig,3,26
+Joseph G Ibrahim,3,26
+Cavan Reilly,3,26
+Peter Bühlmann,3,26
+Dean A. Follmann,3,26
+John I. Marden,3,26
+Xiao-Li Meng,3,26
+Chris J. Lloyd,3,26
+Doug Nychka,3,26
+Yu Xie,3,26
+Robert D. Gibbons,3,26
+Geof H. Givens,3,26
+Richard A. Berk,3,26
+Daniel O. Scharfstein,3,26
+Joseph B. Lang,3,26
+Axel Munk,3,26
+Thomas S. Shively,3,26
+Michael J. Greenwood,3,26
+Douglas P. Wiens,3,26
+Alice S. Whittemore,3,26
+Piet de Jong,3,26
+Richard A. Johnson,3,26
+James H. Stock,3,26
+Constantinos Goutis,3,26
+Jim Albert,3,26
+Margaret Sullivan Pepe,3,26
+David Ruppert,3,26
+Thomas Mathew,3,26
+K. B. Kulasekera,3,26
+Nicholas I. Fisher,3,26
+Mario Peruggia,3,26
+Peter H. Westfall,3,26
+Guohua Pan,3,26
+Mike Jacroux,3,26
+Kazuo Yamaguchi,3,26
+Eric Ghysels,3,26
+Martin T. Wells,3,26
+Govind S. Mudholkar,3,26
+Michael Leblanc,3,26
+V. P. Godambe,3,26
+Jon Wakefield,3,26
+Jian-Shen Chen,3,26
+Elja Arjas,3,26
+Robert E. Kass,3,26
+N. E. Breslow,3,26
+Michael A. Newton,3,26
+Javier Rojo,3,26
+Charles J. Geyer,3,26
+Mayer Alvo,3,26
+A. C. Atkinson,3,26
+Donald Guthrie,3,26
+Anthony J. Hayter,3,26
+Daniel Zelterman,3,26
+Richard E. Barlow,3,26
+Robert H. Shumway,3,26
+Benjamin Kedem,3,26
+Jan Beran,3,26
+D. Y. Lin,3,26
+Ralph A. Bradley,3,26
+Peter J. Rousseeuw,3,26
+Clifford M. Hurvich,3,26
+Robert W. Mee,3,26
+Mark J. Schervish,3,26
+Hal Stern,3,26
+Persi Diaconis,3,26
+Philip J. Smith,3,26
+Stephen J. Finch,3,26
+Tom Leonard,3,26
+Barry H. Margolin,3,26
+Kenneth C. Land,3,26
+P. J. Bickel,3,26
+Edward B. Fowlkes,3,26
+Albert W. Marshall,3,26
+Satoru Kanoh,3,26
+Gregory C. Reinsel,3,26
+Neil C. Schwertman,3,26
+Vincent N. Lariccia,3,26
+Scott L. Zeger,3,26
+Michael Haber,3,26
+Kenneth J. Koehler,3,26
+Gary A. Simon,3,26
+Stephen C. Hora,3,26
+Samuel H. Preston,3,26
+John D. Emerson,3,26
+A. C. Harvey,3,26
+K. Ruben Gabriel,3,26
+Richard L. Dykstra,3,26
+William H. Dumouchel,3,26
+Richard M. Heiberger,3,26
+Frank de Leeuw,3,26
+A. J. Scott,3,26
+Camil Fuchs,3,26
+Cary T. Isaki,3,26
+E. Jacquelin Dietz,3,26
+John J. Wiorkowski,3,26
+Kenneth J. Arrow,3,26
+William E. Wecker,3,26
+Alastair Scott,3,26
+Sylvan Wallenstein,3,26
+Robert Bohrer,3,26
+Victor Hasselblad,3,26
+C. P. Shapiro,3,26
+Gary O. Zerbe,3,26
+James A. Koziol,3,26
+H. J. Keselman,3,26
+Melvin R. Novick,3,26
+John E. Hewett,3,26
+D. V. Gokhale,3,26
+Abraham Genizi,3,26
+F. T. Wright,3,26
+Kinley Larntz,3,26
+Donald A. Berry,3,26
+Robert E. Bechhofer,3,26
+Joseph Waksberg,3,26
+Tim Robertson,3,26
+Timothy W. McGuire,3,26
+Warren T. Dent,3,26
+John Crowley,3,26
+Daniel A. Relles,3,26
+Larry D. Haugh,3,26
+Jerome Klotz,3,26
+Linda S. Chan,3,26
+R. J. Serfling,3,26
+James B. Ramsey,3,26
+Takamitsu Sawa,3,26
+Dennis O. Dixon,3,26
+L. D. Broemeling,3,26
+Hardeo Sahai,3,26
+Frank Proschan,3,26
+A. R. Sen,3,26
+Matthew Goldstein,3,26
+Bartholomew P. Hsi,3,26
+B. V. Sukhatme,3,26
+Bruce W. Turnbull,3,26
+P. L. Claypool,3,26
+Edward O. Thorp,3,26
+Agnes Berger,3,26
+G. M. Kaufman,3,26
+Cuthbert Daniel,3,26
+Paul W. Mielke Jr.,3,26
+Myint Tin,3,26
+R. K. Zeigler,3,26
+Donald G. Morrison,3,26
+C. Philip Cox,3,26
+Shelley Zacks,3,26
+Brian L. Joiner,3,26
+John A. Cornell,3,26
+Dennis J. Aigner,3,26
+David C. Bowden,3,26
+T. D. Wallace,3,26
+John S. Chipman,3,26
+Benjamin J. Tepping,3,26
+John Leroy Folks,3,26
+Rory Thompson,3,26
+H. D. Brunk,3,26
+Capt. D. R. Barr,3,26
+Martin J. Bailey,3,26
+D. W. Gaylor,3,26
+D. B. Owen,3,26
+Irwin D. J. Bross,3,26
+Wilson L. Taylor,3,26
+Sidney J. Cutler,3,26
+M. B. Wilk,3,26
+Ernest M. Scheuer,3,26
+Abner Hurwitz,3,26
+Murray Brown,3,26
+E. P. Hutchinson,3,26
+J. H. Chung,3,26
+Julius Shiskin,3,26
+L. L. Thurstone,3,26
+A. E. Sarhan,3,26
+A. de la Garza,3,26
+Abraham Golub,3,26
+Andrew W. Marshall,3,26
+George Garvy,3,26
+Aryness Joy Wickens,3,26
+Leo A. Aroian,3,26
+Roe Goodman,3,26
+Raymond J. Jessen,3,26
+John N. Webb,3,26
+Q. Forrest Walker,3,26
+Henry B. Arthur,3,26
+J. Neyman,3,26
+F. Stuart Chapin,3,26
+W. A. Shewhart,3,26
+Edgar Sydenstricker,3,26
+O. Gressens,3,26
+Ephraim M. Hanks,3,26
+Mauricio Sadinle,3,26
+Curtis B. Storlie,3,26
+Michael W. Robbins,3,26
+Edoardo M. Airoldi,3,26
+Peter J. Diggle,3,26
+Tianxi Cai,3,26
+Yunzhang Zhu,3,26
+Yehua Li,3,26
+Jing Lei,3,26
+Lisha Chen,3,26
+Jian Zhang,3,26
+Roderick J. Little,3,26
+Donatello Telesca,3,26
+Huixia Judy Wang,3,26
+Sylvain Sardy,3,26
+Ranjan Maitra,3,26
+David B. Dunson,3,26
+Jeng-Min Chiou,3,26
+Yingcun Xia,3,26
+Naisyin Wang,3,26
+Wensheng Guo,3,26
+Francesca Dominici,3,26
+Balgobin Nandram,3,26
+Xihong Lin,3,26
+Louis-Paul Rivest,3,26
+Siem Jan Koopman,3,26
+A. S. Hedayat,3,26
+Chu-In Charles Lee,3,26
+Guido Consonni,3,26
+Philip E. Cheng,3,26
+Giovanni Parmigiani,3,26
+Duncan K. H. Fong,3,26
+Jeffrey Grogger,3,26
+H. L. Gray,3,26
+Peter F. Thall,3,26
+Eugene F. Fama,3,26
+W. G. Bulgren,3,26
+Samprit Chatterjee,3,26
+D. Singh,3,26
+Dalia Chakrabarty,2,27
+Matthew Blackwell,2,27
+David S. Matteson,2,27
+Shujie Ma,2,27
+Yifei Sun,2,27
+J. L. Scealy,2,27
+Matthias Katzfuss,2,27
+Mark Fiecas,2,27
+Andreas Hagemann,2,27
+Xinlei Wang,2,27
+Veronika Ročková,2,27
+Valentin Patilea,2,27
+Bing-Yi Jing,2,27
+J. D. Godolphin,2,27
+Yanxun Xu,2,27
+Tyler H. McCormick,2,27
+Samuel D. Pimentel,2,27
+Junhui Wang,2,27
+Samiran Sinha,2,27
+Efstathia Bura,2,27
+Wei Liu,2,27
+Shuyuan He,2,27
+F. Jay Breidt,2,27
+Wenjiang Fu,2,27
+Yuan Jiang,2,27
+Zeng-Hua Lu,2,27
+Bo Jiang,2,27
+Brigham R. Frandsen,2,27
+Harry Crane,2,27
+Kentaro Fukumoto,2,27
+Hui Huang,2,27
+Qing Zhou,2,27
+Peisong Han,2,27
+Hulin Wu,2,27
+Ben B. Hansen,2,27
+Alan Huang,2,27
+Gery Geenens,2,27
+Gerda Claeskens,2,27
+Victor M. Panaretos,2,27
+Marie Davidian,2,27
+Takahiro Hoshino,2,27
+Sanat K. Sarkar,2,27
+Matt Taddy,2,27
+Zahra Siddique,2,27
+Yuanjia Wang,2,27
+Ting Zhang,2,27
+Howard D. Bondell,2,27
+Zhou Zhou,2,27
+Robert N. Rodriguez,2,27
+Drew A. Linzer,2,27
+Martin A. Lindquist,2,27
+P. L. Davies,2,27
+Lu Wang,2,27
+Ute Hahn,2,27
+Daniel Percival,2,27
+Debbie J. Dupuis,2,27
+Tristan Zajonc,2,27
+Longhai Li,2,27
+Peter Z. G. Qian,2,27
+Dávid Papp,2,27
+Ciprian M. Crainiceanu,2,27
+C. Paddy Farrington,2,27
+Ying Chen,2,27
+Matthew A. Taddy,2,27
+Michael Peress,2,27
+Ross L. Prentice,2,27
+Yacine Aït-Sahalia,2,27
+Xin Gao,2,27
+Abel Rodríguez,2,27
+Werner Brannath,2,27
+Daniela M. Witten,2,27
+Kani Chen,2,27
+Song Xi Chen,2,27
+Tatyana Krivobokova,2,27
+Sally C. Morton,2,27
+John H. J. Einmahl,2,27
+Pulak Ghosh,2,27
+Debopam Bhattacharya,2,27
+Haitao Chu,2,27
+Finbarr O'Sullivan,2,27
+Boaz Nadler,2,27
+Jan C. Neddermeyer,2,27
+Martin Posch,2,27
+Peter A. Lachenbruch,2,27
+Christian Francq,2,27
+Mary Ellen Bock,2,27
+William R. Shadish,2,27
+Michael L. Anderson,2,27
+Lifeng Wang,2,27
+S. C Kou,2,27
+Alois Kneip,2,27
+Yufeng Liu,2,27
+Jun Yan,2,27
+Dave Higdon,2,27
+Limin Peng,2,27
+Remy Cottet,2,27
+Brent A Johnson,2,27
+Pavel Číźek,2,27
+John Staudenmayer,2,27
+Jing Qin,2,27
+Michael G Hudgens,2,27
+Ciprian M Crainiceanu,2,27
+Haiqun Lin,2,27
+Daniel Yekutieli,2,27
+David I Warton,2,27
+Kenneth Rice,2,27
+Ying Kuen Cheung,2,27
+Ana Grohovac Rappold,2,27
+Wendy Meiring,2,27
+Mayetri Gupta,2,27
+Sallie Keller-McNulty,2,27
+Jean D Opsomer,2,27
+F. Dubois Bowman,2,27
+Kristin N Javaras,2,27
+Peter H Westfall,2,27
+Glenn Heller,2,27
+J. P Morgan,2,27
+Fritz Scheuren,2,27
+Rachel MacKay Altman,2,27
+Prasad A Naik,2,27
+Montserrat Fuentes,2,27
+E. Andrés Houseman,2,27
+Jessica Tressou,2,27
+Michael E Sobel,2,27
+Hui Zou,2,27
+Michael G Akritas,2,27
+Timothy E Hanson,2,27
+Sibel Sirakaya,2,27
+A. S Hedayat,2,27
+Yong Kong,2,27
+Martin Kulldorff,2,27
+Jason Roy,2,27
+J. Carlos Escanciano,2,27
+Willa W Chen,2,27
+Adrian E Raftery,2,27
+Fulvio De Santis,2,27
+Jose Manuel Pavía-Miralles,2,27
+Peter X.-K Song,2,27
+Yannis G Yatracos,2,27
+David M Zucker,2,27
+Alan E Gelfand,2,27
+Scott A Sisson,2,27
+Michael R Elliott,2,27
+Gareth M James,2,27
+Joseph B Lang,2,27
+Ian W McKeague,2,27
+Jin-Ting Zhang,2,27
+Michael L Stein,2,27
+Donald B Rubin,2,27
+Ivan Mizera,2,27
+Yoichi Miyata,2,27
+Takis Merkouris,2,27
+Chunlei Ke,2,27
+Yulia Gel,2,27
+Ben B Hansen,2,27
+Simon N Wood,2,27
+Sanjoy K Sinha,2,27
+Kenneth M Rice,2,27
+Perry de Valpine,2,27
+Roderick J Little,2,27
+Robert L Mason,2,27
+Scott M Berry,2,27
+Hao Zhang,2,27
+Frederic Paik Schoenberg,2,27
+Wesley O Johnson,2,27
+Chih-Ling Tsai,2,27
+Shiqing Ling,2,27
+Chunming Zhang,2,27
+Marc A Suchard,2,27
+Bruce E Hansen,2,27
+Miron L Straf,2,27
+Sander Greenland,2,27
+Scott Gilbert,2,27
+Jeffrey S Rosenthal,2,27
+Zbigniew Szkutnik,2,27
+Michael A Newton,2,27
+Mark A van de Wiel,2,27
+Omer Ozturk,2,27
+Sandra J McBride,2,27
+Gary Koop,2,27
+Daniel Rabinowitz,2,27
+Guenther Walther,2,27
+Richard L Scheaffer,2,27
+Edward F Vonesh,2,27
+Ajit C Tamhane,2,27
+W. Michael O'Fallon,2,27
+James O Berger,2,27
+Ignacio N Lobato,2,27
+Yuhong Yang,2,27
+Sylvia Frühwirth-Schnatter,2,27
+James H Steiger,2,27
+Gunnar Kjell,2,27
+Bradley P. Carlin,2,27
+N. Reid,2,27
+V. Solo,2,27
+Michael R. Elliott,2,27
+Paul Gustafson,2,27
+Jong Tae Kim,2,27
+Arnold J. Stromberg,2,27
+David Vere-Jones,2,27
+Jerry Lawless,2,27
+Andrey Feuerverger,2,27
+Andrew W. Lo,2,27
+Nathaniel L. Beck,2,27
+Michael W. Browne,2,27
+Theodore Eisenberg,2,27
+Beverly G. Mellen,2,27
+Yongmiao Hong,2,27
+Michael J. Daniels,2,27
+David H. Krantz,2,27
+Scott M. Berry,2,27
+Ulf Böckenholt,2,27
+Probal Chaudhuri,2,27
+Marc Aerts,2,27
+Carl P. Schmertmann,2,27
+Soumendra N. Lahiri,2,27
+Linda H. Zhao,2,27
+Wilbert C. M. Kallenberg,2,27
+Kenny Q. Ye,2,27
+Sudeshna Adak,2,27
+Colin B. Begg,2,27
+M. Laurentius Marais,2,27
+C. K. Chu,2,27
+Claudia Tebaldi,2,27
+David M. Higdon,2,27
+Michael C. Minnotte,2,27
+Edsel A. Peña,2,27
+David M. Zucker,2,27
+Marianthi Markatou,2,27
+Carmela E. Quintos,2,27
+Jacqueline M. Hughes-Oliver,2,27
+Jianming Ye,2,27
+Louis Ferré,2,27
+Patrick J. Heagerty,2,27
+Brani Vidakovic,2,27
+James G. Booth,2,27
+Anne Chao,2,27
+Yuedong Wang,2,27
+Jon R. Kettenring,2,27
+Lewis B. Sheiner,2,27
+Myunghee Cho Paik,2,27
+Li-Shan Huang,2,27
+Edgar Brunner,2,27
+Enrique Castillo,2,27
+Donald Malec,2,27
+Nancy Paul Silliman,2,27
+Michael Sherman,2,27
+Dr. Michael D. B. de Edwardes,2,27
+Robert A. Rigby,2,27
+Goran Brostrom,2,27
+Narayan Sastry,2,27
+Takashi Yanagawa,2,27
+Tiee-Jian Wu,2,27
+Chuhsing Kate Hsiao,2,27
+Gene Pennello,2,27
+R. R. Sitter,2,27
+Lynne Billard,2,27
+Iain S. Weir,2,27
+Charles Kooperberg,2,27
+Daniel A. Bloch,2,27
+Alice M. Richardson,2,27
+Evelyn M. Crowley,2,27
+Guido Giani,2,27
+Mendel Fygenson,2,27
+Zhenming Shun,2,27
+Nhu D. Le,2,27
+Stephan R. Sain,2,27
+Ludwig Fahrmeir,2,27
+W. Y. Wendy Lou,2,27
+James L. Kepner,2,27
+Bodhini R. Jayasuriya,2,27
+Joel L. Horowitz,2,27
+B. M. Brown,2,27
+Hari Mukerjee,2,27
+Ülkü Gürler,2,27
+Merlise Clyde,2,27
+Ping Zhang,2,27
+Xu-Feng Niu,2,27
+Christopher H. Schmid,2,27
+Garrett M. Fitzmaurice,2,27
+Bertrand Clarke,2,27
+Michael P. Jones,2,27
+Sin-Ho Jung,2,27
+Richard Anderson-Sprecher,2,27
+Y. Vardi,2,27
+Sangun Park,2,27
+Mahmoud A. El-Gamal,2,27
+Theo Gasser,2,27
+Michael L. Stein,2,27
+Xiaoping Xiong,2,27
+David J. Balding,2,27
+Hävard Rue,2,27
+Santiago Velilla,2,27
+Wing K. Fung,2,27
+Christian Houdré,2,27
+Julian Z. Wang,2,27
+Julian J. Faraway,2,27
+Peter Amrhein,2,27
+Rex F. Galbraith,2,27
+Sally Hunsberger,2,27
+Jean-Daniel Rolle,2,27
+Keunkwan Ryu,2,27
+Dag Tjøstheim,2,27
+P. M. Robinson,2,27
+Karen Bandeen-Roche,2,27
+Isaac Meilijson,2,27
+Elizabeth H. Slate,2,27
+Art B. Owen,2,27
+Daniel F. Heitjan,2,27
+Offer Lieberman,2,27
+Teresa Ledwina,2,27
+Anton K. Formann,2,27
+Yu Hayakawa,2,27
+Hal S. Stern,2,27
+J. Stuart Hunter,2,27
+A. H. Welsh,2,27
+Paul H. Garthwaite,2,27
+Alan H. Dorfman,2,27
+W. D. Kaigh,2,27
+Michael Friendly,2,27
+Timo Teräsvirta,2,27
+Alaattin Erkanli,2,27
+Sybil L. Crawford,2,27
+Michael D. Escobar,2,27
+S. Christian Albright,2,27
+Karyn E. Model,2,27
+Laurence M. Grummer-Strawn,2,27
+Daniel H. Hill,2,27
+Gary W. Oehlert,2,27
+John S. Uebersax,2,27
+Thomas H. Short,2,27
+Panayiotis T. Theodossiou,2,27
+Larry P. Ammann,2,27
+Wing-Kam Fung,2,27
+Ronald C. Pruitt,2,27
+Neil Shephard,2,27
+Peter H. Peskun,2,27
+Marc J. Sobel,2,27
+Raj S. Chhikara,2,27
+Robert J. Gray,2,27
+Russell B. Millar,2,27
+Steffen L. Lauritzen,2,27
+Louis Rizzo,2,27
+Lorrie L. Hoffman,2,27
+Nicholas Lange,2,27
+Andrew A. Weiss,2,27
+Paul D. Sampson,2,27
+Jae Won Lee,2,27
+Deanna B. Haunsperger,2,27
+W. Härdle,2,27
+George Kimeldorf,2,27
+Douglas Nychka,2,27
+R. H. Shumway,2,27
+Bruce Cooil,2,27
+Vincent P. Barabba,2,27
+Jeffrey E. Harris,2,27
+Kimberly D. Zieschang,2,27
+Steven K. Thompson,2,27
+John P. Buonaccorsi,2,27
+Rollin Brant,2,27
+Michael A. Martin,2,27
+Thomas P. McWilliams,2,27
+Connie Faye Page,2,27
+Christopher J. Lloyd,2,27
+Juha M. Alho,2,27
+Edward J. Wegman,2,27
+William J. Welch,2,27
+Greg C. G. Wei,2,27
+N. S. Altman,2,27
+M. Clutton-Brock,2,27
+Joachim Kunert,2,27
+Kun He,2,27
+John E. Rolph,2,27
+Fredrica D. Kramer,2,27
+Stuart G. Baker,2,27
+Susan Porter-Hudak,2,27
+George R. Terrell,2,27
+Mara Tableman,2,27
+Hanfeng Chen,2,27
+G. L. Thompson,2,27
+Janet L. Norwood,2,27
+Robert Alan Johnson,2,27
+Melinda H. Harder,2,27
+David Edelman,2,27
+A. O'hagan,2,27
+Michael Sampson,2,27
+Helmut Finner,2,27
+Lucy Suchman,2,27
+Peter J. Danaher,2,27
+Mark A. Espeland,2,27
+Kenneth G. Manton,2,27
+J. J. Tai,2,27
+David L. Banks,2,27
+William A. Link,2,27
+A. Hedayat,2,27
+Stephen J. Ruberg,2,27
+J. B. Carlin,2,27
+Mark R. Conaway,2,27
+James A. Orr,2,27
+Douglas G. Simpson,2,27
+Mohan Delampady,2,27
+Peter McCullagh,2,27
+Adi Raveh,2,27
+James Bethel,2,27
+Alan J. Izenman,2,27
+Lynne Stokes,2,27
+Amy Racine-Poon,2,27
+M. Vernon Johns,2,27
+L. Mark Berliner,2,27
+Yosihiko Ogata,2,27
+Robert K. Tsutakawa,2,27
+Peter C. O'brien,2,27
+Adam T. Martinsek,2,27
+Ben Zehnwirth,2,27
+C. Mitchell Dayton,2,27
+Yehuda Vardi,2,27
+S. M. Tam,2,27
+Alan J. Rogers,2,27
+Allen L. Schirm,2,27
+Robert T. Holden,2,27
+Steven C. Hillmer,2,27
+Theodore Karrison,2,27
+R. A. Bailey,2,27
+David A. Ziebart,2,27
+Donald W. Marquardt,2,27
+Roman Krzysztofowicz,2,27
+David K. Pickard,2,27
+James S. Hodges,2,27
+John S. Meyer,2,27
+G. P. Y. Clarke,2,27
+Vijayan N. Nair,2,27
+George W. Cobb,2,27
+Sanford Weisberg,2,27
+Christiaan Grootaert,2,27
+Woo-Chul Kim,2,27
+Russell A. Boyles,2,27
+Raymond L. Chambers,2,27
+Walter K. Kremers,2,27
+Michael D. Bankier,2,27
+D. G. Hoel,2,27
+S. W. Lagakos,2,27
+Mohamed Al-Osh,2,27
+Jiunn T. Hwang,2,27
+N. Singh,2,27
+Michael E. Mack,2,27
+Agustin Maravall,2,27
+Mark F. Schilling,2,27
+Daniel T. Voss,2,27
+Ove Frank,2,27
+R. L. Prentice,2,27
+Robert E. Fay,2,27
+Stephan Morgenthaler,2,27
+Mohammad Sadooghi-Alvandi,2,27
+M. B. Shapiro,2,27
+James F. Nelson,2,27
+Dirk Sikkel,2,27
+Benjamin F. King,2,27
+Bernhard N. Flury,2,27
+Robb J. Muirhead,2,27
+Robert J. Mislevy,2,27
+Shie-Shien Yang,2,27
+Alexander M. Samarov,2,27
+Stephen M. Kosslyn,2,27
+Joop de Beer,2,27
+Salih N. Neftci,2,27
+Leo Breiman,2,27
+Richard Valliant,2,27
+Walter W. Piegorsch,2,27
+Thomas M. Stoker,2,27
+Mukhtar M. Ali,2,27
+David A. Lax,2,27
+Taka-Aki Shiraishi,2,27
+Kenneth W. Wachter,2,27
+Paul D. Allison,2,27
+David Oakes,2,27
+Carson E. Agnew,2,27
+Gouri K. Bhattacharyya,2,27
+Jeremy M. G. Taylor,2,27
+C. Page Shapiro,2,27
+Robert A. Wijsman,2,27
+Takeaki Kariya,2,27
+José M. Bernardo,2,27
+B. W. Silverman,2,27
+Robert J. Shiller,2,27
+Carl Erik Särndal,2,27
+S. D. Walter,2,27
+Wallace E. Franck,2,27
+Marc Mangel,2,27
+H. T. Thaler,2,27
+Sam C. Saunders,2,27
+David Hinkley,2,27
+Wolfgang Polasek,2,27
+Thomas A. Louis,2,27
+Gregory Reinsel,2,27
+John S. Rose,2,27
+Richard D. Gill,2,27
+Y. C. Chang,2,27
+Jon Schnute,2,27
+J. W. Pratt,2,27
+James M. Landwehr,2,27
+Murray A. Cameron,2,27
+Kam-Wah Tsui,2,27
+Henrik Spliid,2,27
+Roger L. Wright,2,27
+Akimichi Takemura,2,27
+Orley Ashenfelter,2,27
+E. B. Fowlkes,2,27
+Roderick J.A. Little,2,27
+Esa Uusipaikka,2,27
+William C. Rinaman Jr.,2,27
+L. P. Fatti,2,27
+Herman J. Bierens,2,27
+Katsuto Tanaka,2,27
+Josephine Mauskopf,2,27
+Michael A. Stoto,2,27
+Carl N. Morris,2,27
+Estela Bee Dagum,2,27
+Thomas W. O'Gorman,2,27
+Clifford C. Clogg,2,27
+Daniel Macrae Keenan,2,27
+M. Anthony Wong,2,27
+Anastasios A. Tsiatis,2,27
+S. E. Pudney,2,27
+James K. Binkley,2,27
+W. J. Studden,2,27
+Sam Gutmann,2,27
+Ronald D. Snee,2,27
+Salih N. NeftçI,2,27
+Robert Bartels,2,27
+Michael L. Brown,2,27
+James D. Malley,2,27
+Danny Dyer,2,27
+Greg Reinsel,2,27
+Gary M. Erickson,2,27
+Robert S. Elder,2,27
+Stan Becker,2,27
+B. Kleiner,2,27
+Ekkehart Schlicht,2,27
+K. J. McConway,2,27
+Samuel D. Oman,2,27
+Laurens de Haan,2,27
+Yoshikazu Takada,2,27
+Göran Broström,2,27
+Margaret E. Martin,2,27
+Edward L. Korn,2,27
+Diane Galarneau Gibbons,2,27
+Prem K. Goel,2,27
+R. R. Read,2,27
+Gregory A. Mack,2,27
+Mark E. Johnson,2,27
+Thomas R. Willemain,2,27
+Gunnar Blom,2,27
+Ioannis A. Koutrouvelis,2,27
+Nanny Wermuth,2,27
+Nobuo Shinozaki,2,27
+Y. H. Wang,2,27
+S. Lynne Stokes,2,27
+Cheryl M. Wallgren,2,27
+David R. Bellhouse,2,27
+Walter Krämer,2,27
+J. D. Jobson,2,27
+Jay W. Forrester,2,27
+Stanley Wasserman,2,27
+Robert D. Mare,2,27
+Andrew F. Siegel,2,27
+David P. Hasza,2,27
+Jan F. Kiviet,2,27
+Justus F. Seely,2,27
+Tom Wansbeek,2,27
+Lütkepohl Helmut,2,27
+D. M. Grove,2,27
+C. L. F. Attfield,2,27
+Gary Smith,2,27
+Jan M. Van Campenhout,2,27
+Robert E. Tarone,2,27
+Grace Wahba,2,27
+I. S. Alalouf,2,27
+James W. Sayre,2,27
+A. Zinger,2,27
+Arthur L. Schoenstadt,2,27
+S. B. Nandi,2,27
+Michael Woodroofe,2,27
+Bengt Muthén,2,27
+Douglas H. Jones,2,27
+Michael Bacharach,2,27
+Roberto S. Mariano,2,27
+A. Ian McLeod,2,27
+Rory O. R. Y. Thompson,2,27
+Ralph G. O'brien,2,27
+Alan Paul Fenech,2,27
+David L. Turner,2,27
+Glenn D. Westley,2,27
+Claude Angers,2,27
+Leland Stewart,2,27
+Thomas E. Obremski,2,27
+Kerry L. Lee,2,27
+Beth Gladen,2,27
+Thomas W. Sager,2,27
+Martin A. Hamilton,2,27
+Petter Laake,2,27
+K. J. Worsley,2,27
+Abba M. Krieger,2,27
+Joseph J. Walker,2,27
+Ward Whitt,2,27
+Richard K. Burdick,2,27
+David R. Thomas,2,27
+Donald S. Burdick,2,27
+Fritz H.-H. Henze,2,27
+T. Timothy Chen,2,27
+David A. Pyne,2,27
+Charles I. Plosser,2,27
+Anita Parunak,2,27
+Brian S. Everitt,2,27
+Richard T. Baillie,2,27
+Peter Paul Vitaliano,2,27
+Allan E. Paull,2,27
+Robert C. Scott,2,27
+Scott E. Atkinson,2,27
+Gerhard Hommel,2,27
+L. R. Haff,2,27
+Theodor J. Stewart,2,27
+Ishay Weissman,2,27
+Kenneth S. Kaminsky,2,27
+Marc S. Weiss,2,27
+Ronald E. Wyzga,2,27
+Lee W. Schruben,2,27
+Norman J. Johnson,2,27
+Itzhak Venezia,2,27
+Gerald L. Sievers,2,27
+Michael R. Stoline,2,27
+Kenneth E. Warner,2,27
+Rina Chen,2,27
+A. John Petkau,2,27
+Gerald Shea,2,27
+Hermanus H. Lemmer,2,27
+Michael F. Driscoll,2,27
+Annette J. Dobson,2,27
+James T. McClave,2,27
+P. Prescott,2,27
+Kenneth G. Brown,2,27
+Herbert Solomon,2,27
+John D. Kalbfleisch,2,27
+John C. Ham,2,27
+Nils Blomqvist,2,27
+Paul S. Levy,2,27
+Randall D. Weiss,2,27
+Arthur V. Peterson Jr.,2,27
+Russell F. Kappenman,2,27
+Paul A. Games,2,27
+VÁClav Fabian,2,27
+Donald Ylvisaker,2,27
+Roy E. Welsch,2,27
+Kenneth W. Fertig,2,27
+Antoni Espasa,2,27
+James D. Broffitt,2,27
+Robert J. Beaver,2,27
+Henry P. Wynn,2,27
+Glen H. Lemon,2,27
+David Freedman,2,27
+Peter Newman,2,27
+João Luiz Maurity Saboia,2,27
+Morton B. Brown,2,27
+Debabrata Basu,2,27
+Lee-Jen Wei,2,27
+Ralph B. D'agostino,2,27
+Aroona S. Borpujari,2,27
+Geoffrey John McLachlan,2,27
+S. Keith Lee,2,27
+W. R. Schucany,2,27
+James M. Lowerre,2,27
+Helen T. Bhattacharyya,2,27
+Dennis D. Wackerly,2,27
+B. J. R. Bailey,2,27
+Kenneth Garbade,2,27
+Donald G. Thomas,2,27
+M. Lawrence Clevenson,2,27
+I. B. Thomsen,2,27
+Kong-Ming Chong,2,27
+C. A. Robertson,2,27
+L. Billard,2,27
+L. R. Shenton,2,27
+James D. Knoke,2,27
+Judith-Anne W. Chapman,2,27
+Basil L. Hamilton,2,27
+R. M. Loynes,2,27
+C. Singh,2,27
+Cordelia Reimers,2,27
+Jacob S. Siegel,2,27
+Norman Draper,2,27
+Jia-Yeong Tsay,2,27
+G. J. G. Upton,2,27
+Jon Stene,2,27
+Dennis L. Young,2,27
+Jay Herson,2,27
+Kerstin Vännman,2,27
+Girma Wolde-Tsadik,2,27
+R. J. Rohr,2,27
+Chong Kiew Liew,2,27
+R. W. Farebrother,2,27
+Richard Hobson,2,27
+Prithwis Das Gupta,2,27
+Jerome H. Klotz,2,27
+V. M. Joshi,2,27
+Geoffrey R. Dolby,2,27
+William A. Barnett,2,27
+Daniel Krewski,2,27
+P. L. Cornelius,2,27
+Trevor Sharot,2,27
+Walter L. Eckardt Jr.,2,27
+Tore Schweder,2,27
+Richard F. Green,2,27
+D. L. Thomas,2,27
+W. A. Woodward,2,27
+M. Samiuddin,2,27
+Lester R. Frankel,2,27
+Ivy E. Broder,2,27
+P. T. Liu,2,27
+M. R. Binns,2,27
+Richard J. Brook,2,27
+Sidney J. Yakowitz,2,27
+Earl Nordbrock,2,27
+Nitis Mukhopadhyay,2,27
+A. Charnes,2,27
+Milton Sobel,2,27
+Ian R. Dunsmore,2,27
+Rudy A. Gideon,2,27
+Allan H. Marcus,2,27
+Meena Pradhan,2,27
+John A. Carlson,2,27
+David K. Guilkey,2,27
+James C. Reading,2,27
+Susan D. Horn,2,27
+Max Engelhardt,2,27
+N. S. Johnson,2,27
+Mark Thompson,2,27
+H. S. Sichel,2,27
+Judith D. Goldberg,2,27
+Frank A. Cowell,2,27
+Benjamin Kedem-Kimelfeld,2,27
+Peter A. Frost,2,27
+E. G. Enns,2,27
+Janos Galambos,2,27
+A. E. Stark,2,27
+K. Vijayan,2,27
+Daniel W. Ladd,2,27
+S. John,2,27
+R. Harkema,2,27
+Roger J. Owen,2,27
+G. J. McLachlan,2,27
+Pedro E. Ferreira,2,27
+R. L. Obenchain,2,27
+W. H. Dumouchel,2,27
+T. N. Srivastava,2,27
+James R. Veale,2,27
+A. Hald,2,27
+Seymour M. Kwerel,2,27
+Richard C. Rockwell,2,27
+Jan Lanke,2,27
+R. H. Fletcher,2,27
+Keith Ord,2,27
+Smiley W. Cheng,2,27
+John B. Ofosu,2,27
+Kenneth J. Levy,2,27
+J. Robinson,2,27
+G. W. Cran,2,27
+George C. S. Yu,2,27
+Richard J. Cebula,2,27
+Chester L. Olson,2,27
+Scott B. Guthery,2,27
+George H. Worm,2,27
+B. L. Fox,2,27
+R. M. Pringle,2,27
+W. Kenneth Poole,2,27
+Marshall E. Blume,2,27
+Lawrence Hubert,2,27
+F. James Rohlf,2,27
+Stephen L. George,2,27
+Alan Winterbottom,2,27
+James E. Kiefer,2,27
+Joseph Naus,2,27
+J. Tiago de Oliveira,2,27
+Edmund H. Mantell,2,27
+Alton J. Rahe,2,27
+Kenneth F. Wallis,2,27
+Robert W. Gillespie,2,27
+William H. Angoff,2,27
+Janet T. Wittes,2,27
+Thomas F. Cargill,2,27
+E. Meelis,2,27
+J. D. Church,2,27
+James Lowerre,2,27
+Steve Selvin,2,27
+Gwenda J. Cane,2,27
+John M. Cozzolino,2,27
+R. C. Srivastava,2,27
+J. B. Ofosu,2,27
+A. J. Yeats,2,27
+Frances E. Kobrin,2,27
+Peter Jagers,2,27
+Douglas Kelker,2,27
+Johny K. Johansson,2,27
+Merle W. Tate,2,27
+E. J. Schlossmacher,2,27
+Ivor Francis,2,27
+Pierre Jolicoeur,2,27
+Kenneth O. Cogger,2,27
+David P. Baron,2,27
+William Jay Conover,2,27
+Opal G. Regan,2,27
+Robert A. Gordon,2,27
+Benjamin P. Klotz,2,27
+Jacob D. Merriwether,2,27
+William M. Bassin,2,27
+A. Otten,2,27
+Jay L. Devore,2,27
+John B. Neuhardt,2,27
+R. J. Bhansali,2,27
+Richard A. Olshen,2,27
+Eugene F. Schuster,2,27
+Saul Sands,2,27
+B. R. Froehlich,2,27
+R. Pollard,2,27
+James J. Schlesselman,2,27
+Jay Devore,2,27
+Dan H. Moore II,2,27
+H. Ekblom,2,27
+G. David Faulkenberry,2,27
+Hans Levenbach,2,27
+E. A. Maxwell,2,27
+Roger W. Klein,2,27
+George P. McCabe Jr.,2,27
+Laurits R. Christensen,2,27
+S. H. Shapiro,2,27
+William H. Shaw,2,27
+Biswatosh Sen Gupta,2,27
+Joel C. Kleinman,2,27
+Douglas K. Adie,2,27
+Donald R. McNeil,2,27
+Elkan F. Halpern,2,27
+L. Peter Jennergren,2,27
+J. L. Hodges Jr.,2,27
+J. N. Srivastava,2,27
+M. Haseeb Rizvi,2,27
+M. W. J. Layard,2,27
+Edwin L Bradley,2,27
+Walter H. Carter Jr.,2,27
+James L. Hutter,2,27
+John F. Kain,2,27
+R. R. Officer,2,27
+Richard A. Groeneveld,2,27
+Dallas E. Johnson,2,27
+W. Keith Hastings,2,27
+Herbert Weisberg,2,27
+James H. Ware,2,27
+Dennis P. Tihansky,2,27
+Harland F. Romberg,2,27
+Tracy W. Murray,2,27
+Chin Long Chiang,2,27
+F. Gerard Adams,2,27
+P. Michael Laub,2,27
+Kan Hua Young,2,27
+Michael D. Hurd,2,27
+Robert W. Lissitz,2,27
+Jerrold H. Zar,2,27
+Gerald R. Chase,2,27
+J. C. Geertsema,2,27
+E. Seneta,2,27
+W. E. Griffiths,2,27
+Barr Rosenberg,2,27
+V. S. Bawa,2,27
+P. N. Misra,2,27
+Lyman L McDonald,2,27
+S. R. Srivastava,2,27
+T. K. M. Wisniewski,2,27
+David F. Bauer,2,27
+André Laurent,2,27
+David F. Sly,2,27
+C. Michelini,2,27
+Alexis Zinger,2,27
+Peter S. Gartside,2,27
+Bernard Saperstein,2,27
+Pierre Robillard,2,27
+Janet Dixon Elashoff,2,27
+Parthasaradhi Mallela,2,27
+Robert E. Kohn,2,27
+Richard O. Gilbert,2,27
+William K. Estes,2,27
+Ned Glick,2,27
+David G. Hoel,2,27
+V. K. Srivastava,2,27
+S. S. Shapiro,2,27
+Nathan King,2,27
+M. T. Subrahmanya,2,27
+Martin M. G. Fase,2,27
+Leroy O. Stone,2,27
+David V. Hinkley,2,27
+John M. Chambers,2,27
+Paul Luey,2,27
+Seiji Naya,2,27
+Yuji Ijiri,2,27
+Leonard J. Savage,2,27
+Ravindra Singh,2,27
+William M. Rand,2,27
+T. J. Rao,2,27
+R. M. Phatarfod,2,27
+Robert B. Davies,2,27
+P. L. Odell,2,27
+John J. McCall,2,27
+Chester R. Pelto,2,27
+John J. Chai,2,27
+Leonard Merewitz,2,27
+Brian J. L. Berry,2,27
+Sung C. Choi,2,27
+K. P. Srinath,2,27
+Valerie Miké,2,27
+Ying Y. Wang,2,27
+M. R. Rao,2,27
+J. J. A. Moors,2,27
+Erling B. Andersen,2,27
+Campbell B. Read,2,27
+Bernard G. Greenberg,2,27
+Roger R. Betancourt,2,27
+Neil W. Henry,2,27
+John Teichmoeller,2,27
+Donald C. Weber,2,27
+Kei Takeuchi,2,27
+Eugene Sobel,2,27
+Harry H. Kelejian,2,27
+Surendra K. Srivastava,2,27
+Lawrence R. Klein,2,27
+A. P. J. Abrahamse,2,27
+J. Singh,2,27
+Richard Zeckhauser,2,27
+Marcel G. Dagenais,2,27
+Robert H. Hayes,2,27
+Fred L. Ramsey,2,27
+K. C. Chanda,2,27
+Jacob Marschak,2,27
+Stephen J. Turnovsky,2,27
+M. K. Carney,2,27
+William Shonick,2,27
+Rupert G. Miller JR.,2,27
+M. J. Karson,2,27
+Vincent A. Uthoff,2,27
+Charles L. Odoroff,2,27
+George D. Craig,2,27
+Anthony A. Prato,2,27
+Sungwoo Kim,2,27
+David F. Andrews,2,27
+Yung Liang Tong,2,27
+Erling Bernhard Andersen,2,27
+D. N. Shanbhag,2,27
+J. G. Fryer,2,27
+Pietro Balestra,2,27
+Aaron Tenenbein,2,27
+S. S. Wagner,2,27
+M. Knott,2,27
+Irwin Friend,2,27
+Richard Long,2,27
+Roy H. Wampler,2,27
+D. J. Laughhunn,2,27
+Feng-Yao Lee,2,27
+Barbara B. Murray,2,27
+Gerald F. Higgins,2,27
+John S. White,2,27
+Adnan F. Ifram,2,27
+Sleeba John,2,27
+William S. Mallios,2,27
+Robert Cleroux,2,27
+James K. Yarnold,2,27
+Robert I. Jennrich,2,27
+Morris Skibinsky,2,27
+James E. Mosimann,2,27
+R. A. Weitzman,2,27
+Jan Kmenta,2,27
+K. S. Srikantan,2,27
+Roger R. Davidson,2,27
+K. C. Sreedharan Pillai,2,27
+Morris H. Hanson,2,27
+Joseph F. Daly,2,27
+Robert T. O'reagan,2,27
+Eugene W. Pike,2,27
+Morris L. Eaton,2,27
+Jack L. Ogus,2,27
+James E. Dunn,2,27
+Robert Cléroux,2,27
+M. Sivamurthy,2,27
+Arthur Schleifer Jr.,2,27
+H. H. Kelejian,2,27
+Prakash C. Joshi,2,27
+P. J. Kim,2,27
+B. G. Greenberg,2,27
+John C. Musgrave,2,27
+Jagdish N. Sheth,2,27
+J. J. Deely,2,27
+Alan Powell,2,27
+M. Atiqullah,2,27
+Umesh D. Naik,2,27
+Leone Y. Low,2,27
+Hrishikesh D. Vinod Mathematica,2,27
+Chandan Kumar Mustafi,2,27
+C. A. McGilchrist,2,27
+S. D. Varde,2,27
+Hanspeter Thöni,2,27
+Philip Rabinowitz,2,27
+Allen C. Endres,2,27
+R. Ramanathan,2,27
+G. M. K. Kpedekpo,2,27
+Z. M. Sykes,2,27
+M. Zelen,2,27
+N. S. D'Andrea Du Bois Jr.,2,27
+B. N. Nagnur,2,27
+M. M. Siddiqui,2,27
+H. Glejser,2,27
+Madan Lal Puri,2,27
+Ethel S. Gilbert,2,27
+Thomas A. Elkins,2,27
+Jonathan Shuster,2,27
+Irving I. Gringorten,2,27
+Khatab M. Hassanein,2,27
+Giitiro Suzuki,2,27
+Mary H. Regier,2,27
+Dale M. Heien,2,27
+Rasul A. Khan,2,27
+G. K. Eagleson,2,27
+Allan H. Young,2,27
+Harry M. Rosenblatt,2,27
+Paul Zarembka,2,27
+Gordon M. Kaufman,2,27
+Theodore S. Donaldson,2,27
+E. Scott Maynes,2,27
+David R. Kamerschen,2,27
+Roger A. Shorack,2,27
+T. Cacoullos,2,27
+Paul L. Meyer,2,27
+P. A. Tinsley,2,27
+Thomas H. Naylor,2,27
+Joginder Kumar,2,27
+Ellis L. Johnson,2,27
+Hodson Thornber,2,27
+James W. Longley,2,27
+Marvin Wilkerson,2,27
+D. R. McNeil,2,27
+Joseph R. Hochstim,2,27
+Vijaya S. Hege,2,27
+Joseph Putter,2,27
+W. S. Mallios,2,27
+Edward E. Cureton,2,27
+M. F. M. Osborne,2,27
+Hans Riedwyl,2,27
+L. G. Telser,2,27
+Chandan K. Mustafi,2,27
+K. T. Wallenius,2,27
+Marvin Glasser,2,27
+Zbyněk Šidák,2,27
+P. J. Staff,2,27
+S. Kullback,2,27
+Samir Kumar Bhattacharya,2,27
+Benjamin King,2,27
+Irene M. Trawinski,2,27
+N. C. Kakwani,2,27
+Johan Koerts,2,27
+James A. Davis,2,27
+D. M. Mahamunulu,2,27
+Jiří Likeš,2,27
+Ignacy Kotlarski,2,27
+Terence J. Wales,2,27
+Haskel Benishay,2,27
+Derek J. Hudson,2,27
+Roger N. Waud,2,27
+Charles Roberts,2,27
+V. D. Barnett,2,27
+F. R. Oliver,2,27
+Yoel Haitovsky,2,27
+W. T. Federer,2,27
+Leon S. White,2,27
+Daniel Bloch,2,27
+H. Maisel,2,27
+Asatoshi Maeshiro,2,27
+Walter J. Stuart,2,27
+W. S. Connor,2,27
+L. H. Koopmans,2,27
+William R. Knight,2,27
+Irene Rosenthal,2,27
+Hans K. Ury,2,27
+H. R. Singh,2,27
+John Korbel,2,27
+J. G. Cragg,2,27
+Richard M. Duvall,2,27
+V. P. Bhapkar,2,27
+Andrei Rogers,2,27
+S. Rosenbaum,2,27
+Richard F. Potthoff,2,27
+M. Bhaskar Rao,2,27
+William H. Waldorf,2,27
+D. Chun,2,27
+Robert L. McCornack,2,27
+Melvin F. Shakun,2,27
+M. S. Bartlett,2,27
+Marc Nerlove,2,27
+Nigel F. Nettheim,2,27
+R. L. Plackett,2,27
+Theophilos Cacoullos,2,27
+Allan G. Feldt,2,27
+J. L. Haybittle,2,27
+Daniel Teichroew,2,27
+Marion R. Bryson,2,27
+William F. Massy,2,27
+N. Giri,2,27
+Sidney Goldstein,2,27
+Minoru Siotani,2,27
+Stanley W. Steinkamp,2,27
+M. W. Birch,2,27
+Alvise Braga-Illa,2,27
+Phillip Cagan,2,27
+Tong Hun Lee,2,27
+M. Glasser,2,27
+Lester G. Telser,2,27
+J. L. Jaech,2,27
+Roy C. Milton,2,27
+D. Michael Milder,2,27
+James A. Lechner,2,27
+Douglas C. Dacy,2,27
+James N. Cronholm,2,27
+N. A. Rahman,2,27
+T. Cunia,2,27
+Bob E. Ellison,2,27
+Constance van Eeden,2,27
+Jean D. Gibbons,2,27
+A. V. Gafarian,2,27
+D. E. Robison,2,27
+J. S. Cramer,2,27
+Shuntaro Shishido,2,27
+Eva Mueller,2,27
+Ira Horowitz,2,27
+C. E. V. Leser,2,27
+K. H. Kramer,2,27
+James E. Jacobson,2,27
+James C. Hickman,2,27
+Elmer B. Mode,2,27
+Janet A. Fisher,2,27
+David W. Alling,2,27
+C. W. J. Granger,2,27
+P. Armitage,2,27
+George L. Wilber,2,27
+W. A. Thompson Jr.,2,27
+Norman Adler,2,27
+Claude S. Brinegar,2,27
+Vanamamalai Seshadri,2,27
+Ellis Batten Page,2,27
+Joe H. Ward Jr.,2,27
+K. R. Aiyar,2,27
+Dennis C. Gilliland,2,27
+Henry Adler Einhorn,2,27
+Robert H. Somers,2,27
+James D. Tarver,2,27
+James E. Grizzle,2,27
+H. S. Konijn,2,27
+Hans Brems,2,27
+Balkrishna V. Sukhatme,2,27
+Martin E. Abel,2,27
+Martin David,2,27
+Charles Martinez,2,27
+Martin R. Gainsbrugh,2,27
+W. M. Kincaid,2,27
+Myron B. Fibbing,2,27
+George Bennett,2,27
+P. S. Swamy,2,27
+James K. Kindahl,2,27
+T. I. Matuszewski,2,27
+K. C. Zachariah,2,27
+A. R. Kamat,2,27
+Bernard Lazerwitz,2,27
+H. Leon Barter,2,27
+Paul Peach,2,27
+Ralph Thomlinson,2,27
+P. R. Fisk,2,27
+G. R. Lindsey,2,27
+M. Davies,2,27
+H. O. Lancaster,2,27
+Edwin B. Cox,2,27
+Coleridge A. Wilkins,2,27
+Shirley Young Lehman,2,27
+Eugene Rogot,2,27
+Robert L. Gustafson,2,27
+H. E. Riley,2,27
+Richard F. Tomasson,2,27
+Jose Nieto de Paschal,2,27
+Robert W. Buechley,2,27
+Fred Ederer,2,27
+Alan Ross,2,27
+Nico F. Laubscher,2,27
+Eugene S. Edgington,2,27
+Ralph L. Nelson,2,27
+Robert Bechhofer,2,27
+Peter J. Sandiford,2,27
+P. B. Moranda,2,27
+Martin Shubik,2,27
+Octavio Cabello,2,27
+Harold W. Guthrie,2,27
+James Pachares,2,27
+Manning Feinleib,2,27
+Sherman J. Maisel,2,27
+Stephen Spiegelglas,2,27
+John F. Muth,2,27
+William L. Hays,2,27
+Rensis Likert,2,27
+Leo F. Schnore,2,27
+Clifton R. Wharton Jr.,2,27
+Robert W. Smuts,2,27
+George H. Borts,2,27
+Norman M. Kaplan,2,27
+William A. Cromarty,2,27
+Peter E. de Janosi,2,27
+Charles Windle,2,27
+Ronald H. Beattie,2,27
+Gordon Tullock,2,27
+M. R. Mickey,2,27
+Enrico T. Federighi,2,27
+Benson Y. Landis,2,27
+Margaret G. Reid,2,27
+Zvi Geiliches,2,27
+Mieczyslaw Choynowski,2,27
+Walter E. Hoadley Jr,2,27
+Eberhard M. Fels,2,27
+Theodore D. Sterling,2,27
+E. Cuyler Hammond,2,27
+Marion Gross Sobol,2,27
+David L. Wallace,2,27
+Richard H. Willis,2,27
+Irma G. Adelman,2,27
+Marguerite C. Burk,2,27
+Rex F. Daly,2,27
+William I. Abraham,2,27
+Doris M. Eisemann,2,27
+R. Jardine,2,27
+Harry Benjamin Ernst,2,27
+Lila Elveback,2,27
+Harold D. Griffin,2,27
+Isadore Blumen,2,27
+James V. Bradley,2,27
+Otto Dykstra Jr.,2,27
+Doris P. Rothwell,2,27
+Milton D. Lieberman,2,27
+H. M. Blalock Jr.,2,27
+Otto J. Karst,2,27
+Robert Hooke,2,27
+Alexander Gerschenkron,2,27
+Jacob Mincer,2,27
+Robert J. Buehler,2,27
+George E. Nicholson Jr.,2,27
+Frank Eugene Clark,2,27
+D. R. Cox,2,27
+Daniel B. Suits,2,27
+H. Silverstone,2,27
+E. J. G. Pitman,2,27
+D. J. Bartholomew,2,27
+A. W. Kimball,2,27
+Harry T. Oshima,2,27
+Marvin Zelen,2,27
+William J. Moonan,2,27
+Gerald D. Berndt,2,27
+Arch Russell,2,27
+Leta McKinney Adler,2,27
+Clark Holloway Jr.,2,27
+Sujit Kumar Mitra,2,27
+William Warntz,2,27
+Gustave Zakrzewski,2,27
+Harry Eisenpress,2,27
+Arnold C. Harberger,2,27
+Ivo Lah,2,27
+Stanley Reiter,2,27
+Nathan Jaspen,2,27
+M. A. El-badry,2,27
+John V. Breakwell,2,27
+Werner Z. Hirsch,2,27
+Leslie H. Miller,2,27
+George L. Edgett,2,27
+Julian H. Toulouse,2,27
+Harry Press,2,27
+C. C. Li,2,27
+Evelyn M. Kitagawa,2,27
+George J. Stolnitz,2,27
+Constantine A. Yeracaris,2,27
+M. A. Adelman,2,27
+William O. Jones,2,27
+Daniel O. Price,2,27
+S. S. Žarković,2,27
+W. L. Stevens,2,27
+M. M. Babbar,2,27
+John Aitchison,2,27
+H. J. Godwin,2,27
+Paul P. Coe,2,27
+John Hajnal,2,27
+Hugh H. Brown,2,27
+Percy G. Gray,2,27
+Svein Nordbotten,2,27
+Robert M. Williams,2,27
+Samuel H. Brooks,2,27
+D. Teichroew,2,27
+Morris Mendelson,2,27
+Beryl Wayne Sprinkel,2,27
+David S. Stoller,2,27
+Nedra B. Belloc,2,27
+K. S. Lomax,2,27
+Lloyd Saville,2,27
+G. Warren Nutter,2,27
+Helen R. White,2,27
+S. S. Zarkovic,2,27
+R. Tynes Smith III,2,27
+W. C. Krumbein,2,27
+David M. Blank,2,27
+H. S. Houthakker,2,27
+Donald L. Foley,2,27
+Irving Roshwalb,2,27
+Robert E. Clark,2,27
+Walt R. Simmons,2,27
+Hugh Carter,2,27
+B. J. Mandel,2,27
+C. Daniel,2,27
+Hannes Hyrenius,2,27
+Jack Moshman,2,27
+Adolf A. Berle Jr.,2,27
+Jesse Burkhead,2,27
+Eli S. Marks,2,27
+Bradford P. Kimball,2,27
+Jacob Fisher,2,27
+Robert E. Greenwood,2,27
+R. C. Geary,2,27
+C. C. Craig,2,27
+Jack M. Elkin,2,27
+Simon Rottenberg,2,27
+D. F. Votaw Sr.,2,27
+Margaret Jarman Hagood,2,27
+Gene H. Fisher,2,27
+D. J. Davis,2,27
+Vincent I. West,2,27
+G. D. Shellard,2,27
+Robert C. Schmitt,2,27
+J. R. H. Shaul,2,27
+Lorin A. Thompson,2,27
+Ivan M. Lee,2,27
+Neva R. Deardorff,2,27
+Emil H. Jebe,2,27
+Bert F. Green Jr.,2,27
+A. V. Nordquist,2,27
+Richard B. Heflebower,2,27
+C. H. Coombs,2,27
+Franz Adler,2,27
+Iriving I. Gringorten,2,27
+Robert F. Bales,2,27
+Karl A. Fox,2,27
+Charles A. Spoerl,2,27
+George Jaszi,2,27
+Iwao M. Moriyama,2,27
+Kenneth Mather,2,27
+L. J. Savage,2,27
+Frank J. Massey Jr.,2,27
+Peter O. Steiner,2,27
+Roy W. Jastram,2,27
+Irwin Bross,2,27
+Leonard Gillman,2,27
+Frank W. Notestein,2,27
+Nedra Bartlett Belloc,2,27
+Ulric H. Weil,2,27
+H. Fairfield Smith,2,27
+Donald J. Bogue,2,27
+"Joseph Berkson M.D., D.Sc.",2,27
+Sigmund P. Zobel,2,27
+R. Clay Sprowls,2,27
+Preston C. Hammer,2,27
+Sam Shapiro,2,27
+Naum Jasny,2,27
+Palmer O. Johnson,2,27
+C. Arthur Williams Jr.,2,27
+Charles A. Metzner,2,27
+P. H. Karmel,2,27
+Edward B. Olds,2,27
+T. J. Woofter,2,27
+Hilda Geiringer,2,27
+Eugene A. Rasor,2,27
+Gabriel Chevry,2,27
+Nathan Morrison,2,27
+A. M. Lester,2,27
+Lewis F. Richardson,2,27
+Garret L. Schuyler,2,27
+C. J. Kirchen,2,27
+Louis J. Paradiso,2,27
+Weir M. Brown,2,27
+George C. Campbell,2,27
+Thomas N. E. Greville,2,27
+Donald D. Cody,2,27
+Fergus J. McDiarmid,2,27
+Morton D. Miller,2,27
+Abraham M. Niessen,2,27
+Herman Lasken,2,27
+John V. Spielmans,2,27
+Hans Zeisel,2,27
+F. G. Cornell,2,27
+Francis E. McVay,2,27
+Paul H. Jacobson,2,27
+George C. Smith Jr.,2,27
+Arthur G. Peterson,2,27
+Paul G. Hoel,2,27
+Harry Schwartz,2,27
+Susan S. Burr,2,27
+George Katona,2,27
+W. D. Evans,2,27
+John M. Hartwell Jr.,2,27
+Willard L. Thorp President,2,27
+Charles E. Young,2,27
+Marvin Lavin,2,27
+Alan S. Donnahoe,2,27
+Melville J. Ulmer,2,27
+Earl Latham,2,27
+Louis J. Ducoff,2,27
+R. E. Patterson,2,27
+D. B. De Lury,2,27
+Norman Crump,2,27
+H. G. Wilm,2,27
+E. L. LeClerg,2,27
+Walter A. Shewhart,2,27
+Mortimer D. Goldstein,2,27
+Paul A. Dodd Ph.D.,2,27
+Tjalling Koopmans,2,27
+Morris B. Ullman,2,27
+Norman C. Parkin,2,27
+Abraham Wald,2,27
+Alvin S. Tostlebe,2,27
+J. A. Livingston,2,27
+Wilson H. Grabill,2,27
+James P. Crow,2,27
+Francis G. Cornell,2,27
+Milton da Silva Rodrigues,2,27
+Harris P. Dawson Jr.,2,27
+Sophie Marcuse,2,27
+William Dowell Baten,2,27
+M. Joseph Meehan,2,27
+Conrad Taeuber,2,27
+N. Arnold Tolles,2,27
+Mr. Rice,2,27
+Joseph C. Bevis,2,27
+William McPeak,2,27
+H. W. Norton,2,27
+Irving Kaplansky,2,27
+Honorable Henry A. Wallace Vice President of the United States,2,27
+S. Morris Livingston,2,27
+Irene B. Taeuber,2,27
+A. J. King,2,27
+John B. Catlin,2,27
+F. M. Wadley,2,27
+A. M. Niessen,2,27
+John R. Miner Chairman,2,27
+H. R. Tolley,2,27
+S. J. Lengyel,2,27
+David R. Roberts,2,27
+J. A. Nordin,2,27
+Warren C. Waite,2,27
+William L. Batt,2,27
+R. G. D. Allen,2,27
+R. A. Gordon,2,27
+Harvey E. Becknell,2,27
+Edward M. Schrock,2,27
+John D. Black,2,27
+Edward T. Crowder,2,27
+Franklin M. Aaronson,2,27
+Frederick C. Dirks,2,27
+Juan Kimelman,2,27
+Kenneth H. McGill,2,27
+Walter H. Ebling,2,27
+Joseph A. Becker,2,27
+Marion Gillim,2,27
+Lazare Teper,2,27
+John R. Platt,2,27
+R. E. Comstock,2,27
+Albert O. Hirschman,2,27
+R. Clyde White,2,27
+F. S. Deibler,2,27
+Thomas C. McCormick,2,27
+Robert Gage M.S.,2,27
+Wm. B. Rice,2,27
+E. L. Thorndike,2,27
+C. D. Simmons,2,27
+Irvin Holmes,2,27
+Donald S. Tucker,2,27
+R. A. Fisher,2,27
+Oliver Harold Folk,2,27
+Fred H. Sanderson,2,27
+C. F. Wilson,2,27
+Henry A. Latané,2,27
+Charles K. Nichols,2,27
+E. J. Broster,2,27
+Walter G. Keim,2,27
+Theodore E. Raiford,2,27
+Milton Gilbert,2,27
+Marta Fraenkel,2,27
+John S. Perkins,2,27
+George W. Edwards,2,27
+M. A. Girshick,2,27
+C. E. Batschelet,2,27
+Mortimer Kaplan,2,27
+James G. Osborne,2,27
+Malcolm J. Proudfoot,2,27
+J. C. McPherson,2,27
+Winfield W. Riefler,2,27
+J. Solterer,2,27
+Gustave S. Juliber,2,27
+Paul Matthew Stoner,2,27
+M. D. Bingham,2,27
+Richard L. Funkhouser,2,27
+R. J. Brookner,2,27
+Adolf Kozlik,2,27
+Robert A. Sayre,2,27
+Martin Taitel,2,27
+John W. Boatwright,2,27
+Rose L. Vormelker,2,27
+John W. Love,2,27
+A. H. Mowbray,2,27
+Arthur B. Hersey,2,27
+Robert R. Nathan,2,27
+Samuel J. Dennis,2,27
+P. L. Alger,2,27
+Arthur H. Reede,2,27
+Herman M. Somers,2,27
+Jacob L. Mosak,2,27
+Thomas S. Berry,2,27
+Harry Hoyle,2,27
+P. S. Dwyer,2,27
+Murray Shields,2,27
+E. W. Morehouse,2,27
+Marta Fraenkel M.D.,2,27
+Elmo Roper,2,27
+R. L. Gillett,2,27
+Constance Wynn Altshuler,2,27
+L. R. Hafstad,2,27
+Frederick F. Stephan Secretary,2,27
+Walter P. Willcox,2,27
+Davis R. Dewey,2,27
+William Fielding Ogburn,2,27
+Jacob Viner,2,27
+Reinhard A. Hohaus,2,27
+Mark Kormes,2,27
+Charles F. Roos,2,27
+Fred A. Gosnell,2,27
+George J. Stigler,2,27
+Max D. Kossoris,2,27
+Joseph Zubin,2,27
+Philip G. Hudson,2,27
+Edwin B. George,2,27
+Shelby Cullom Davis,2,27
+A. Willard Turner,2,27
+Lester S. Kellogg,2,27
+Charles S. Tippetts,2,27
+Lloyd G. Reynolds,2,27
+Jerome B. Cohen,2,27
+Paul D. Dickens,2,27
+Dale Yoder,2,27
+George J. Eberle,2,27
+C. W. Vickery,2,27
+William J. Carson,2,27
+Lauchlin Currie,2,27
+Donald S. Thompson,2,27
+Homer Jones,2,27
+D. C. Elliott,2,27
+Dorothy Fahs Beck,2,27
+Walter B. Garver,2,27
+H. Muench,2,27
+Theodore A. Janssen,2,27
+Donald B. Woodward,2,27
+H. J. Loman,2,27
+Jules I. Bogen,2,27
+Rolf Nugent,2,27
+David C. Barry,2,27
+Milan V. Ayres,2,27
+William Trufant Foster,2,27
+A. D. H. Kaplan,2,27
+George Gallup,2,27
+Robert W. Burgess,2,27
+F. A. Gosnell,2,27
+May Ayres Burgess,2,27
+Barkev S. Sanders,2,27
+Laurence H. Sloan,2,27
+Arthur J. Altmeyer,2,27
+George E. Bigge,2,27
+Christian E. Jarchow,2,27
+Stephen M. Dubrul,2,27
+S. J. Kennedy,2,27
+Louise Sissman,2,27
+Dr. H. W. Methorst,2,27
+C. W. Halligan,2,27
+Robert W. Harbeson,2,27
+A. B. Cox,2,27
+Morris R. Cohen,2,27
+Ernest Nagel,2,27
+Fairfield E. Raymond,2,27
+Walter F. Titus,2,27
+S. M. Dubrul,2,27
+Glenn A. Bowers,2,27
+Paul M. Densen,2,27
+Paul P. Gourrich,2,27
+Mortimer J. Fox Jr.,2,27
+Mapheus Smith,2,27
+Eliot G. Mears,2,27
+Julian S. Duncan,2,27
+Lowell J. Chawner,2,27
+Gardiner C. Means Economic Advisor on Finance to the Secretary of Agriculture,2,27
+Ealph C. Epstein,2,27
+Paul B. Rider,2,27
+Meredith B. Givens Executive Secretary,2,27
+Norman Leon Gold,2,27
+Emerson Ross,2,27
+Mordecai Ezekiel Economic Adviser to the Secretary of Agriculture,2,27
+W. B. Kemp,2,27
+Arnold Tolles,2,27
+James N. Holsen,2,27
+Barbara S. Bukks,2,27
+Carl Thomas,2,27
+I. G. Davis,2,27
+Leifur Magnusson,2,27
+Simon Yang,2,27
+Theodore O. Yntema,2,27
+Richard L. Kozelka,2,27
+Corrington Gill,2,27
+A. B. Wolfe,2,27
+James Harvey Rogers,2,27
+Edward V. Huntington,2,27
+Paul Horst,2,27
+Lewis A. Maverick,2,27
+William Haber,2,27
+H. M. Douty,2,27
+John Parke Young,2,27
+Harry M. Shulman,2,27
+Bennet Mead,2,27
+Elmer C. Bratt,2,27
+Alfred Cahen,2,27
+Evelyn C. McKay,2,27
+Robert E. L. Faris,2,27
+Lewis H. Haney,2,27
+Boris Stern,2,27
+Howard Whipple Green,2,27
+Solomon Barkin,2,27
+Ilse M. Smith,2,27
+W. C. Clark,2,27
+B. H. Camp,2,27
+Frederick W. Brown,2,27
+Horatio M. Pollock,2,27
+Alfred T. Falk,2,27
+Daniel Starch,2,27
+William J. Reilly,2,27
+J. M. Clark,2,27
+Frederic Bennett,2,27
+Dickson H. Leavens,2,27
+P. Granville Edge O. B. E.,2,27
+A. L. Bailey,2,27
+C. D. Campbell,2,27
+Egon S. Pearson,2,27
+Malcolm C. Rorty,2,27
+Reginald E. Watts,2,27
+Henry I. Richards,2,27
+H. La Rue Frain,2,27
+Ludwik Landau,2,27
+George A. Baker,2,27
+Theodore A. Veenstra,2,27
+Louis H. Bean,2,27
+Andrew T. Court,2,27
+Frederick D. Richey,2,27
+Margaret H. Hogg,2,27
+Corrado Gini,2,27
+C. Luther Fry,2,27
+Amy G. Maher,2,27
+F. Gardiner Perry,2,27
+J. Arthur Harris,2,27
+Mary Johnston,2,27
+A. J. Beyleveld,2,27
+Richard A. Robb,2,27
+H. LaRue Frain,2,27
+A. J. Page,2,27
+E. M. Burns,2,27
+H. Dwight Comer,2,27
+Edgar L. Smith,2,27
+George B. Roberts,2,27
+Lawrence B. Mann,2,27
+Howard R. Tolley,2,27
+Asher Achinstein,2,27
+Louis Bloch,2,27
+Mollie Ray Carroll,2,27
+C. C. Camp,2,27
+Le Grand Powers,2,27
+Edith Elmer Wood,2,27
+Dorothy C. Bacon,2,27
+A. O. Bauman,2,27
+Robert M. Davis,2,27
+Ruth McChesney,2,27
+Edmund E. Day,2,27
+W. V. Lovitt,2,27
+Stephen Varga,2,27
+Nathan P. Levin,2,27
+Bradford Bixby Smith,2,27
+F. G. Tryon,2,27
+Woodlief Thomas,2,27
+M. R. Neifeld,2,27
+L. Galvani,2,27
+Harry Sylvester Will,2,27
+Howard J. Banker,2,27
+Sir George H. Knibbs C.M.G.,2,27
+Sir George H. Knibbs C. M. G.,2,27
+James W. Glover,2,27
+Donald R. Belcher,2,27
+Edwin W. Kopf,2,27
+George H. Van Buren,2,27
+William H. Guilfoy,2,27
+William H. Davis,2,27
+C. H. Whelden Jr.,2,27
+John B. Canning,2,27
+C. C. Bosland,2,27
+Sewall Weight,2,27
+Clark L. Hull,2,27
+Melville J. Herskovits,2,27
+E. Roesle M.D.,2,27
+Hornell Hart,2,27
+McDonald H. Wilson,2,27
+Elma B. Carr,2,27
+W. Willford I. King,2,27
+Paul F. Brissenden,2,27
+C. C. Osborn,2,27
+J. S. Taylor,2,27
+Edwin Bidwell Wilson,2,27
+Gladden W. Baker,2,27
+Karl J. Holzinger,2,27
+William S. Rossiter,2,27
+Harry A. Wembridge,2,27
+Ralph G. Hurlin,2,27
+Otto R. Eichel,2,27
+Raymond B. Prescott,2,27
+Katherine E. Howland,2,27
+William L. Hart,2,27
+Joseph A. Hill,2,27
+Walter N. Polakov,2,27
+Robert M. Woodbury,2,27
+Oswald W. Knauth,2,27
+Carroll W. Doten,2,27
+Henry Ludwell Moore,2,27
+Henry S. Dennison,2,27
+Alvin H. Hansen,2,27
+Edward White,2,27
+Jared S. Murray,2,27
+Fernando A. Quintana,2,27
+Wentao Li,2,27
+Anirban Bhattacharya,2,27
+Yuanshan Wu,2,27
+Wenxin Jiang,2,27
+Xueqin Wang,2,27
+Gauri Sankar Datta,2,27
+Ruoqing Zhu,2,27
+Kehui Chen,2,27
+Wei Lin,2,27
+Hua Zhou,2,27
+Layla Parast,2,27
+Ying Hung,2,27
+Bo Li,2,27
+Duchwan Ryu,2,27
+Davide La Vecchia,2,27
+Ori Rosen,2,27
+Wenguang Sun,2,27
+Liuquan Sun,2,27
+Byeong U. Park,2,27
+Edward W. Frees,2,27
+Debajyoti Sinha,2,27
+Andrea Rotnitzky,2,27
+Jian Huang,2,27
+Somnath Datta,2,27
+Brett Presnell,2,27
+Peter Boatwright,2,27
+Man-Suk Oh,2,27
+R. R. Prairie,2,27
+Guohui Wu,1,28
+Giampiero Marra,1,28
+Beibei Guo,1,28
+Justin Strait,1,28
+Brian L. Egleston,1,28
+Mevin B. Hooten,1,28
+Kristin A. Linn,1,28
+Qingning Zhou,1,28
+Vikram V. Garg,1,28
+Fasheng Sun,1,28
+Ruiyan Luo,1,28
+Alexander Schnurr,1,28
+David B. Dahl,1,28
+Daniel R. Kowal,1,28
+Xianyang Zhang,1,28
+Ailin Fan,1,28
+Yang Ni,1,28
+Gongjun Xu,1,28
+Andrés F. Barrientos,1,28
+Ang Li,1,28
+Hélène Juillard,1,28
+Thomas A. Murray,1,28
+Bledar A. Konomi,1,28
+Audrey Mauguen,1,28
+Ian Barnett,1,28
+Sungmin Kim,1,28
+Brenda López Cabrera,1,28
+Xin Zhou,1,28
+Qing Yang,1,28
+Thaís C. O. Fonseca,1,28
+Shaojun Guo,1,28
+David Rossell,1,28
+Tao Zou,1,28
+Jack Kuipers,1,28
+Jonghyun Yun,1,28
+Jia Li,1,28
+Yuan Huang,1,28
+Kwun Chuen Gary Chan,1,28
+Simón Lunagómez,1,28
+Ilze Kalnina,1,28
+Hao Chen,1,28
+Andreas Alfons,1,28
+Martin Lysy,1,28
+Yize Zhao,1,28
+J. T. Gaskins,1,28
+Jörg Polzehl,1,28
+Wolfgang Karl Härdle,1,28
+Guanhua Chen,1,28
+Simon N. Wood,1,28
+Patrick R. Conrad,1,28
+Ville A. Satopää,1,28
+Pramita Bagchi,1,28
+Pietro Coretto,1,28
+Rebecca C. Steorts,1,28
+Wang Miao,1,28
+Naveen N. Narisetty,1,28
+Pier Luigi Conti,1,28
+Botond Cseke,1,28
+Claudio Agostinelli,1,28
+Xinyu Zhang,1,28
+Abhra Sarkar,1,28
+Degui Li,1,28
+J. R. Lockwood,1,28
+Yang Chen,1,28
+Alexander W. Blocker,1,28
+Margaret E. Roberts,1,28
+Sung Won Han,1,28
+Shahin Tavakoli,1,28
+Chen Yue,1,28
+Fiona Steele,1,28
+Kyu Ha Lee,1,28
+Ritabrata Das,1,28
+Mingyuan Zhou,1,28
+Ning Zhang,1,28
+Ziqi Chen,1,28
+Srijan Sengupta,1,28
+Ulrich K. Müller,1,28
+Will Wei Sun,1,28
+Emre Barut,1,28
+Christopher J. Bennett,1,28
+Carsten Jentsch,1,28
+Bo Zhou,1,28
+Jonathan R. Bradley,1,28
+Angela Noufaily,1,28
+Laura Forastiere,1,28
+Damião Nóbrega Da Silva,1,28
+Zhe Yu,1,28
+Eric W. Fox,1,28
+Daniel Cervone,1,28
+Ryan J. Tibshirani,1,28
+Chris J. Oates,1,28
+Yun Yang,1,28
+Ying Yan,1,28
+Irina Gaynanova,1,28
+Guan Yu,1,28
+Long Feng,1,28
+Jin Tang,1,28
+Pete Bunch,1,28
+Yiyuan She,1,28
+Lin Zhang,1,28
+Abhirup Datta,1,28
+Zhou Yu,1,28
+Jacob Bien,1,28
+Aaron Fisher,1,28
+Baojiang Chen,1,28
+Stanislav Minsker,1,28
+Emilio Porcu,1,28
+Ci-Ren Jiang,1,28
+P. Richard Hahn,1,28
+Zhiguang Huo,1,28
+Mehdi Maadooliat,1,28
+Won Chang,1,28
+Lisa M. Pham,1,28
+Matthew R. Schofield,1,28
+Hyunseung Kang,1,28
+Xiaoyan Sun,1,28
+Peng Ding,1,28
+Rui Pan,1,28
+Michalis K. Titsias,1,28
+Xingdong Feng,1,28
+Jianhua Guo,1,28
+Chao Du,1,28
+Jacopo Mandozzi,1,28
+Mengjie Chen,1,28
+Matthew Reimherr,1,28
+Liangliang Wang,1,28
+G. O. Mohler,1,28
+Kari Lock Morgan,1,28
+Ian W. McKeague,1,28
+Stephen S. M. Lee,1,28
+Rajarshi Guhaniyogi,1,28
+Zifang Guo,1,28
+Antonio F. Galvao,1,28
+J. Marcus Jobe,1,28
+Jing Zhou,1,28
+Jiwei Zhao,1,28
+Laurent E. Calvet,1,28
+Qifan Song,1,28
+Hiroyuki Kasahara,1,28
+Daniel K. Sewell,1,28
+Jin Xu,1,28
+Noah Simon,1,28
+Sebastian Calonico,1,28
+Mariel M. Finucane,1,28
+Beom Seuk Hwang,1,28
+Charles Hokayem,1,28
+Chao Huang,1,28
+Yi-Juan Hu,1,28
+Wei Sun,1,28
+Hang J. Kim,1,28
+Li-Chu Chien,1,28
+Karel Vermeulen,1,28
+Alexander Volfovsky,1,28
+Bailey K. Fosdick,1,28
+Laura Azzimonti,1,28
+C. Villa,1,28
+Tianhao Wang,1,28
+Graciela Boente,1,28
+Jian Zhu,1,28
+Deng Pan,1,28
+Yumou Qiu,1,28
+Chun Yip Yau,1,28
+Hongyuan Cao,1,28
+Claudia Kirch,1,28
+David Azriel,1,28
+Xanthi Pedeli,1,28
+Lo-Bin Chang,1,28
+Jan De Neve,1,28
+Tucker McElroy,1,28
+James G. Scott,1,28
+Xiangrong Kong,1,28
+Jie Li,1,28
+Hui Yao,1,28
+P. Z. Hadjipantelis,1,28
+Ran Tao,1,28
+Bradley J. Barney,1,28
+Ying-Qi Zhao,1,28
+Sy Han Chiou,1,28
+Hengjian Cui,1,28
+Philip Preuss,1,28
+Wei Ma,1,28
+Grace Y. Yi,1,28
+Catalina A. Vallejos,1,28
+Juhee Lee,1,28
+Xuerong Chen,1,28
+Nikolaos Sgouropoulos,1,28
+Randy C. S. Lai,1,28
+Kuangyu Wen,1,28
+Ke Zhu,1,28
+Karl Bruce Gregory,1,28
+Yunxiao Chen,1,28
+Shaoting Li,1,28
+Zhengyi Zhou,1,28
+Xu Tang,1,28
+Alexander M. Franks,1,28
+Antonio R. Linero,1,28
+Giwhyun Lee,1,28
+Tingting Zhang,1,28
+Weibing Huang,1,28
+Matthew J. Heaton,1,28
+Christine Peterson,1,28
+Zheng Tracy Ke,1,28
+D. L. Borchers,1,28
+Linglong Kong,1,28
+Guodong Li,1,28
+Francis K. C. Hui,1,28
+Yoonsuh Jung,1,28
+Jonathan R. Stroud,1,28
+Dimitris Rizopoulos,1,28
+Marian Farah,1,28
+Jonathan E. Gellar,1,28
+Daniel J. Graham,1,28
+Dungang Liu,1,28
+Kelvin Gu,1,28
+Y. J. Hu,1,28
+Zudi Lu,1,28
+Fangpo Wang,1,28
+Bradley Jones,1,28
+Michael Rosenthal,1,28
+Jing Ning,1,28
+Xiao Song,1,28
+Jenný Brynjarsdóttir,1,28
+Brian Claggett,1,28
+Hongyu Miao,1,28
+Kassandra Fronczyk,1,28
+Matthew W. Wheeler,1,28
+Radu Herbei,1,28
+Celine Marielle Laffont,1,28
+Ke Deng,1,28
+Andrew J. Womack,1,28
+Andrew Harvey,1,28
+Bo Wang,1,28
+Yong-Dao Zhou,1,28
+Tianle Chen,1,28
+Michael Rosenblum,1,28
+Shan Luo,1,28
+Alexander Aue,1,28
+Chen Xu,1,28
+Ning Hao,1,28
+Xiaofeng Shao,1,28
+Yongling Xiao,1,28
+Eduardo S. Ayra,1,28
+Isadora Antoniano-Villalobos,1,28
+Daniel M. Percival,1,28
+Carl Schmertmann,1,28
+Dandan Liu,1,28
+Ick Hoon Jin,1,28
+Haim Y. Bar,1,28
+Xiaosun Lu,1,28
+Kun Chen,1,28
+Guangming Pan,1,28
+Giorgos Minas,1,28
+Xu Liu,1,28
+Bruno Scarpa,1,28
+Shuzhuan Zheng,1,28
+Forrest W. Crawford,1,28
+Marco Di Marzio,1,28
+Miguel de Carvalho,1,28
+Chao Wang,1,28
+Luo Xiao,1,28
+Marco Carone,1,28
+Patrick M. Joyce,1,28
+Liqun Xi,1,28
+Lucas Janson,1,28
+Naim Rashid,1,28
+Corwin Matthew Zigler,1,28
+Ziyue Liu,1,28
+Yinshan Zhao,1,28
+Genevera I. Allen,1,28
+François Portier,1,28
+Nicolas J-B. Brunel,1,28
+Christina D. Wang,1,28
+Eun Ryung Lee,1,28
+Ruosha Li,1,28
+Ching-Kang Ing,1,28
+Tomohiro Ando,1,28
+Jingyuan Liu,1,28
+Fang Han,1,28
+Lan Liu,1,28
+A. C. Davison,1,28
+Simon Barthelmé,1,28
+Kenji Fukumizu,1,28
+Suprateek Kundu,1,28
+Blakeley B. McShane,1,28
+Tao Liu,1,28
+Malka Gorfine,1,28
+Huaihou Chen,1,28
+Shane T. Jensen,1,28
+Matias D. Cattaneo,1,28
+Jingfei Zhang,1,28
+Tsuyoshi Kunihama,1,28
+Nicholas G. Polson,1,28
+Luo Lu,1,28
+Min Yang,1,28
+Ming-yen Cheng,1,28
+Bin Zhu,1,28
+Dylan S. Small,1,28
+Marina Bogomolov,1,28
+Young Min Kim,1,28
+Edward Ip,1,28
+Natallia Katenka,1,28
+Avishek Chakraborty,1,28
+Monica Costa Dias,1,28
+David A. Friedenberg,1,28
+Tyler J. Vanderweele,1,28
+Yueqing Wang,1,28
+Sungduk Kim,1,28
+Josue G. Martinez,1,28
+Lihui Zhao,1,28
+Arpita Ghosh,1,28
+J. T. Gene Hwang,1,28
+Rong Liu,1,28
+Hohsuk Noh,1,28
+Dong Hwan Oh,1,28
+Chunpeng Fan,1,28
+Haeran Cho,1,28
+Roee Gutman,1,28
+Man-Wai Ho,1,28
+Riten Mitra,1,28
+Mark C. Wheldon,1,28
+Jesse Y. Hsu,1,28
+Asaf Weinstein,1,28
+S. M. Schennach,1,28
+Garritt Page,1,28
+Arlene Naranjo,1,28
+Jane Paik Kim,1,28
+Qian Jiang,1,28
+Zhenghui Feng,1,28
+Tony Cai,1,28
+Fei Fu,1,28
+Christoph Rothe,1,28
+G. García-donato,1,28
+William Astle,1,28
+Yuan Wang,1,28
+Manuel Wiesenfarth,1,28
+Sandra M. Mohammed,1,28
+Hsiu-Hsi Chen,1,28
+Daniel Manrique-Vallier,1,28
+Michelle R. Danaher,1,28
+Vanja Dukic,1,28
+Summer S. Han,1,28
+Xianchao Xie,1,28
+Lingzhou Xue,1,28
+Justin S. Dyer,1,28
+Fabian Scheipl,1,28
+S. C. Kou,1,28
+R. Killick,1,28
+Haipeng Xing,1,28
+Paul S. Clarke,1,28
+Ioanna Manolopoulou,1,28
+Lane F. Burgette,1,28
+Paolo Frumento,1,28
+Earvin Balderama,1,28
+Giseon Heo,1,28
+Xi Luo,1,28
+Li Li,1,28
+Dulal K. Bhaumik,1,28
+Hakmook Kang,1,28
+Thomas Barrios,1,28
+Alessandra Luati,1,28
+Viktor Todorov,1,28
+Jianhui Zhou,1,28
+Mian Huang,1,28
+Peng Wang,1,28
+Jun Li,1,28
+Thomas J. Fisher,1,28
+W. Brannath,1,28
+Pierre Perron,1,28
+Wensheng Zhu,1,28
+Xiaoyan Shi,1,28
+Lawrence C. McCandless,1,28
+James Y. Dai,1,28
+Jooyoung Jeon,1,28
+Alexandre Rodrigues,1,28
+Dai Feng,1,28
+Keyur H. Desai,1,28
+Tatiyana V. Apanasovich,1,28
+Qian M. Zhou,1,28
+Daniel J. Nordman,1,28
+Zonghui Hu,1,28
+Gaurav Sharma,1,28
+Moreno Bevilacqua,1,28
+Luke Bornn,1,28
+Michael S. Smith,1,28
+Yulia V. Marchenko,1,28
+Sebastian Irle,1,28
+Bodhisattva Sen,1,28
+Alejandro Cruz-Marcelo,1,28
+Sonja Greven,1,28
+Daniel Zantedeschi,1,28
+Anindya Bhadra,1,28
+Jan R. Magnus,1,28
+Mike Baiocchi,1,28
+Rong Chen,1,28
+Yang Yang,1,28
+Fan Li,1,28
+C. Wang,1,28
+Jörg Drechsler,1,28
+Veerabhadran Baladandayuthapani,1,28
+Kun Liang,1,28
+Li-Ping Zhu,1,28
+Z. Harchaoui,1,28
+Lan Xue,1,28
+Sophie Dabo-Niang,1,28
+John P. Morgan,1,28
+Henghsiu Tsai,1,28
+C. A. Field,1,28
+Subhash R. Lele,1,28
+Arthur Spirling,1,28
+Lu Ren,1,28
+Veronica J. Berrocal,1,28
+Sujit K. Ghosh,1,28
+Hormuzd A. Katki,1,28
+Scott H. Holan,1,28
+Aiyi Liu,1,28
+Armin Schwartzman,1,28
+Kwang Woo Ahn,1,28
+Chun Li,1,28
+Jean-Marc Freyermuth,1,28
+Wenbin Lu,1,28
+Yao-ban Chan,1,28
+Ming Lin,1,28
+Jaakko Nevalainen,1,28
+Jay M. Ver Hoef,1,28
+Robert B. Scharpf,1,28
+Lan Huang,1,28
+Nicole H. Augustin,1,28
+Rebecca A. Hubbard,1,28
+Xinwei Deng,1,28
+Scotland C. Leman,1,28
+Minggen Lu,1,28
+Djalil Chafaï,1,28
+Chad M. Schafer,1,28
+Ruth Heller,1,28
+Yu-Jen Cheng,1,28
+Qiang Xu,1,28
+Hao Liu,1,28
+Megan Othus,1,28
+Zuoheng Wang,1,28
+Xuefeng Liu,1,28
+Jeff Gill,1,28
+Siew Leng Teng,1,28
+Tanzy Love,1,28
+Kristin P. Lennox,1,28
+Christopher J. Paciorek,1,28
+Jonathan D. Norton,1,28
+Gilles Durrieu,1,28
+Greg Ridgeway,1,28
+Catriona M. Queen,1,28
+Bitao Liu,1,28
+Sara López-Pintado,1,28
+Jie Peng,1,28
+Weixin Yao,1,28
+Laura Ventura,1,28
+Ricardo T. Lemos,1,28
+R. T. Lemos,1,28
+Jamie L. Bigelow,1,28
+Laura M. Sangalli,1,28
+Douglas E. Schaubel,1,28
+Richard J. Cook,1,28
+Daniel A. Henderson,1,28
+Anthony Y. C. Kuk,1,28
+Richard L. Smith,1,28
+Paul Fearnhead,1,28
+Feng Guo,1,28
+Erica E. M. Moodie,1,28
+Junni L. Zhang,1,28
+Adam J. Rothman,1,28
+Yi-Hau Chen,1,28
+Lionel Cucala,1,28
+Athanasios C. Micheas,1,28
+M. Hashem Pesaran,1,28
+Cristina Rueda,1,28
+Alfio Marazzi,1,28
+John D. Kloke,1,28
+Andrei Y. Yakovlev,1,28
+Dimitris Fouskakis,1,28
+Bryan E. Shepherd,1,28
+A. James O’Malley,1,28
+Clive G. Bowsher,1,28
+Carlos M. Carvalho,1,28
+Brian S. Caffo,1,28
+Daniel Merl,1,28
+Cari G. Kaufman,1,28
+Jiti Gao,1,28
+Kjell Doksum,1,28
+J. Kunert,1,28
+Yongdai Kim,1,28
+Stijn Vansteelandt,1,28
+Edwin S Iversen Jr,1,28
+Mikyoung Jun,1,28
+Ross Corkrey,1,28
+Jinbo Chen,1,28
+Chris Skinner,1,28
+Sheng Luo,1,28
+Isobel Claire Gormley,1,28
+Miles S Kimball,1,28
+Wessel N van Wieringen,1,28
+Jose Manuel Pavía,1,28
+Xiao Wang,1,28
+Kyounghwa Bae,1,28
+Shanshan Wang,1,28
+Robert B Gramacy,1,28
+Ross Iaci,1,28
+Yong Zhou,1,28
+Ricardo Fraiman,1,28
+Ralf Van Der Lans,1,28
+Julia Y Lin,1,28
+Qi Long,1,28
+Atsushi Inoue,1,28
+Arnošt KomÁrek,1,28
+John Allen Logan,1,28
+Tao Shi,1,28
+Tirthankar Dasgupta,1,28
+Herbert K. H Lee,1,28
+Alejandro Veen,1,28
+Ping Ma,1,28
+Trevor Park,1,28
+Pedro César Álvarez-Esteban,1,28
+Wei Zhao,1,28
+Pierre-Jérôme Bergeron,1,28
+Byron Ellis,1,28
+David A van Dyk,1,28
+Lexin Li,1,28
+Yuping Dong,1,28
+Lidong E,1,28
+Albert C Bemmaor,1,28
+Paul S Albert,1,28
+Robert A Connolly,1,28
+Chiara Sabatti,1,28
+Hui Jin,1,28
+Yufeng Tu,1,28
+Arthur van Soest,1,28
+Catherine A Calder,1,28
+Christel Faes,1,28
+Jun Zhu,1,28
+Menggang Yu,1,28
+Shane T Jensen,1,28
+Dankmar Böhning,1,28
+Ollivier Hyrien,1,28
+David R Hunter,1,28
+Lurdes Y. T Inoue,1,28
+Hovav A Dror,1,28
+Daniel J Nordman,1,28
+Yingye Zheng,1,28
+Jianwei Chen,1,28
+Feng Liang,1,28
+David Kaziska,1,28
+David M Kaziska,1,28
+Peter Bouman,1,28
+Bo Cai,1,28
+Andrew J Patton,1,28
+Jonathan Weinberg,1,28
+Shyamal D Peddada,1,28
+Sujit K Sahu,1,28
+Hanwen Huang,1,28
+Micha Mandel,1,28
+J. S Marron,1,28
+Jafar A Khan,1,28
+Roland Fried,1,28
+Qingxia Chen,1,28
+Robertas Gabrys,1,28
+Christian Genest,1,28
+Yu Cheng,1,28
+Steven N MacEachern,1,28
+Witold Bednorz,1,28
+Daniel Cooley,1,28
+Jonathan E Taylor,1,28
+Jianxin Shi,1,28
+Xiaohui Wang,1,28
+Yichao Wu,1,28
+Philip T Reiss,1,28
+Hsin-Cheng Huang,1,28
+Abbas Khalili,1,28
+Maengseok Noh,1,28
+Brent Kreider,1,28
+Jeffrey S Spence,1,28
+Trivellore E Raghunathan,1,28
+Jiashun Jin,1,28
+Chris Hans,1,28
+David B Dahl,1,28
+Hajime Uno,1,28
+Jianwen Cai,1,28
+Freda Cooner,1,28
+Bryan E Shepherd,1,28
+Hock Peng Chan,1,28
+Liugen Xue,1,28
+Yan Li,1,28
+Pranab K Sen,1,28
+G. J. A Amaral,1,28
+Jesse Frey,1,28
+Ilya Gluhovsky,1,28
+Hae Kyung IM,1,28
+Bo LI,1,28
+Kaushik Ghosh,1,28
+Brian J Reich,1,28
+Chunfang Jin,1,28
+Melvin J Hinich,1,28
+P Bortot,1,28
+Huixia Wang,1,28
+Tiejun Tong,1,28
+Arnab Maity,1,28
+Olivia Grigg,1,28
+W Liu,1,28
+Leilei Zeng,1,28
+Yevgen Tymofyeyev,1,28
+Yujun Wu,1,28
+Youjuan Li,1,28
+Yunming Mu,1,28
+M. Ivette Gomes,1,28
+Winfried Stute,1,28
+Hongzhe Li,1,28
+Swati Biswas,1,28
+Christopher R Genovese,1,28
+Bowei Xi,1,28
+Mi-Ja Woo,1,28
+Dorin Drignei,1,28
+Galin L Jones,1,28
+Yee Whye Teh,1,28
+Silvia Centanni,1,28
+Prabir Burman,1,28
+Yu Zhu,1,28
+Barry C Arnold,1,28
+Lenka Mach,1,28
+Wilson W Lu,1,28
+Daniel E Ho,1,28
+Guanglei Hong,1,28
+John W Robinson,1,28
+Min Zhang,1,28
+Simon Cauchemez,1,28
+Juanjuan Fan,1,28
+Sharon Lohr,1,28
+Shun-Yi Chen,1,28
+Søren Tolver Jensen,1,28
+Andrea Hennerfeind,1,28
+Christopher M Quale,1,28
+Lutz Dümbgen,1,28
+Michael A Fligner,1,28
+Kjell Nygren,1,28
+Stephen M. S Lee,1,28
+Matías Salibián-Barrera,1,28
+Lijian Yang,1,28
+Xiaohong Chen,1,28
+Mohamed Yusuf Hassan,1,28
+Chung-Ming Kuan,1,28
+Tian Zheng,1,28
+Niko A Kaciroti,1,28
+Guobing Lu,1,28
+Steven D Mark,1,28
+Yousung Park,1,28
+J Hannig,1,28
+Beth Ann Griffin,1,28
+Gerhard Dikta,1,28
+Grace Chiu,1,28
+Miguel A Fernández,1,28
+Yi Lin,1,28
+M. Blanca Palacios,1,28
+Paul Kabaila,1,28
+Lixing Zhu,1,28
+Irini Moustaki,1,28
+Pedro Galeano,1,28
+Ryan T Elmore,1,28
+Ruixue Liu,1,28
+H Finner,1,28
+Stefanie Biedermann,1,28
+Cyr Emile M'Lan,1,28
+Billy Amzal,1,28
+Chun-Lung Su,1,28
+José T. A. S Ferreira,1,28
+Kai-Sheng Song,1,28
+Richard J Swartz,1,28
+Knashawn H Morales,1,28
+Nicholas A Heard,1,28
+Raphael Gottardo,1,28
+Bin Nan,1,28
+Eric Bair,1,28
+Peter L Bartlett,1,28
+J. E Griffin,1,28
+Zhaohui Su,1,28
+David B Hitchcock,1,28
+Richard A Davis,1,28
+Gabriel Chandler,1,28
+Jan Hannig,1,28
+Inmaculada B Aban,1,28
+Samuel Copt,1,28
+Jae Kwang Kim,1,28
+Jihong Chen,1,28
+Edsel A Peña,1,28
+Peng Zhang,1,28
+Dong Han,1,28
+Recai M Yucel,1,28
+Ke Xu,1,28
+Zheng Yuan,1,28
+José A. F Machado,1,28
+Lihong Qi,1,28
+Samuel Müller,1,28
+Marcel Wolbers,1,28
+ShengLi Tzeng,1,28
+Eric D Kolaczyk,1,28
+Paulo Gonçalvès,1,28
+Lan Zhang,1,28
+Ming T Lin,1,28
+M. C Jones,1,28
+Giorgio E Montanari,1,28
+Brisa N Sánchez,1,28
+Dabao Zhang,1,28
+Shibao Feng,1,28
+Subal C Kumbhakar,1,28
+Mario Forni,1,28
+Clifford Hurvich,1,28
+Joel A Dubin,1,28
+Sara Taskinen,1,28
+Ji-Ping Z Wang,1,28
+Bee Leng Lee,1,28
+Sílvia Gonçalves,1,28
+Nicoleta Serban,1,28
+Albert Maydeu-Olivares,1,28
+Luis Angel García-Escudero,1,28
+Chen-Pin Wang,1,28
+Robert M Dorazio,1,28
+Edwin S Iversen Jr.,1,28
+Alexander Samarov,1,28
+P. Y Lai,1,28
+Mark A Weaver,1,28
+Emily C Martin,1,28
+Hernando Ombao,1,28
+Michael K Pitt,1,28
+Fang Yao,1,28
+Mahlet G Tadesse,1,28
+Loriano Mancini,1,28
+C. H Sim,1,28
+Hyoung-Moon Kim,1,28
+Paul H Garthwaite,1,28
+Sean D Campbell,1,28
+Jason R. W Merrick,1,28
+Roger D Peng,1,28
+Lawrence Brown,1,28
+Xi Zhou,1,28
+Douglas N Midthune,1,28
+Joseph P Romano,1,28
+Yuguo Chen,1,28
+Xiang-Yang Lou,1,28
+Tatsuki Koyama,1,28
+Songnian Chen,1,28
+P Lahiri,1,28
+Hammou El Barmi,1,28
+Paul H Kvam,1,28
+Vanja M Dukić,1,28
+Zhijin Wu,1,28
+Krista Fischer,1,28
+M Perone Pacifico,1,28
+Nidhan Choudhuri,1,28
+Hari K Iyer,1,28
+Bo Yang,1,28
+Anindya Roy,1,28
+Mayte Suárez -Fariñas,1,28
+Edward J Stanek III,1,28
+Thomas D Cook,1,28
+Jesús López-Fidalgo,1,28
+V Delouille,1,28
+Hao Helen Zhang,1,28
+Xueli Liu,1,28
+Raymond J Carroll,1,28
+Hsiao-Yun Huang,1,28
+Chi-Lun Cheng,1,28
+Vern T Farewell,1,28
+Michal Kulich,1,28
+You-Gan Wang,1,28
+Dean P Foster,1,28
+Joseph W Hogan,1,28
+R King,1,28
+Qihua Wang,1,28
+Hongqi Xue,1,28
+M. G Akritas,1,28
+Stephen Walker,1,28
+Jun Xie,1,28
+Thomas J DiCiccio,1,28
+Yonghee Lee,1,28
+George G Judge,1,28
+Richard Charnigo,1,28
+Denis Larocque,1,28
+Robert Greevy,1,28
+Thomas R Ten Have,1,28
+B. Nebiyou Bekele,1,28
+J. R Lockwood,1,28
+Robert Jarrow,1,28
+Yoonkyung Lee,1,28
+Magnus Ekström,1,28
+Chengcheng Hu,1,28
+D. F Signorini,1,28
+K Yu,1,28
+A. Adam Ding,1,28
+Simon J Godsill,1,28
+E Ferreira,1,28
+Maria De Iorio,1,28
+Dobrin Marchev,1,28
+Constantine E Frangakis,1,28
+Don L Stevens Jr.,1,28
+Joseph B Kadane,1,28
+Ron Brookmeyer,1,28
+Craig J Johns,1,28
+Bonnie Ghosh-Dastidar,1,28
+Anthony Garratt,1,28
+Thaddeus Tarpey,1,28
+A. S Foulkes,1,28
+Dennis Cook,1,28
+Zhishen Ye,1,28
+Zhijie Xiao,1,28
+Adam Clements,1,28
+A. D Tsodikov,1,28
+Jennifer A Hoeting,1,28
+Peter E Jupp,1,28
+J. M Loh,1,28
+David F Layton,1,28
+Dan Black,1,28
+Feifang Hu,1,28
+Junyuan Wang,1,28
+Thomas Michael Dubinin,1,28
+Catherine A Sugar,1,28
+Dan J Spitzner,1,28
+Todd Graves,1,28
+John Barnard,1,28
+C. C Holmes,1,28
+Jonathan R Stroud,1,28
+Lori E Dodd,1,28
+Abba M Krieger,1,28
+L Billard,1,28
+Mary Beth Landrum,1,28
+M. Elizabeth Halloran,1,28
+Marc G Genton,1,28
+Sarat C Dass,1,28
+Esa Ollila,1,28
+Jan G De Gooijer,1,28
+Michael A Benjamin,1,28
+Sanjib Basu,1,28
+Jung-Ying Tzeng,1,28
+Robin Henderson,1,28
+Richard A Briesch,1,28
+Ken B Newman,1,28
+Timothy Hanson,1,28
+Yan Yu,1,28
+Peter J Green,1,28
+Grace Y Yi,1,28
+Ron Mittelhammer,1,28
+James H Stock,1,28
+Robert Barsky,1,28
+Pablo Marshall,1,28
+Julia Kelsall,1,28
+Andrea Saltelli,1,28
+Blossom H Patterson,1,28
+S C Kou,1,28
+Subhash R Lele,1,28
+Ronald W Butler,1,28
+Lurdes Y T Inoue,1,28
+Mary C Meyer,1,28
+Victor Chernozhukov,1,28
+J Kunert,1,28
+H V Kulkarni,1,28
+Jiancang Zhuang,1,28
+Mona N Kanaan,1,28
+Jeanne Kowalski,1,28
+Steven J Novick,1,28
+Alan H Welsh,1,28
+Mark J van der Laan,1,28
+T Cai,1,28
+Randy R Sitter,1,28
+Jose Casals,1,28
+Ross A Maller,1,28
+Chris Fraley,1,28
+Carol A Gotway,1,28
+Valen E Johnson,1,28
+Alfhild Lien Eide,1,28
+Peter F Thall,1,28
+Mark R Segal,1,28
+Sandrine Dudoit,1,28
+B. M. Golam Kibria,1,28
+Diana L Miglioretti,1,28
+Douglas M Hawkins,1,28
+Miguel A Arcones,1,28
+Masoud Asgharian,1,28
+Angela Winnett,1,28
+Lawrence Lin,1,28
+William F Christensen,1,28
+Ingrid Van Keilegom,1,28
+Dhammika Amaratunga,1,28
+Eun Sug Park,1,28
+J R Lockwood,1,28
+Brent A Coull,1,28
+Dean Billheimer,1,28
+John M Abowd,1,28
+Linda H Y Yau,1,28
+Bo Lu,1,28
+E A Peña,1,28
+Paola Sebastiani,1,28
+Göran Kauermann,1,28
+Jaeyong Lee,1,28
+S A Murphy,1,28
+Thomas M Braun,1,28
+Athanasios Kottas,1,28
+You Sung Park,1,28
+Hoon Kim,1,28
+David J Nott,1,28
+M. C. M de Gunst,1,28
+Michael E Miller,1,28
+Alan M Zaslavsky,1,28
+Yunfei Paul Li,1,28
+Dana P Goldman,1,28
+Yan Wang,1,28
+Wenzheng Huang,1,28
+C. Shane Reese,1,28
+Anestis Antoniadis,1,28
+Tze Leung Lai,1,28
+Chun Shan Wong,1,28
+Paul J Rathouz,1,28
+Eva Cantoni,1,28
+Krzysztof Nowicki,1,28
+Helle Bunzel,1,28
+A. M Foster,1,28
+Ralitza V Gueorguieva,1,28
+Enrique González,1,28
+Cong Han,1,28
+Eric T Bradlow,1,28
+Christopher K Wikle,1,28
+P. J Brown,1,28
+Stuart G Baker,1,28
+Steven J Skates,1,28
+Miguel A Hernán,1,28
+Judith D Bebchuk,1,28
+William B Fairley,1,28
+Franc J G M Klaassen,1,28
+Ilaria Dimatteo,1,28
+Hernando C Ombao,1,28
+Jun S Liu,1,28
+Hyunjoong Kim,1,28
+Chin-Tsang Chiang,1,28
+D Y Lin,1,28
+Maarten Jansen,1,28
+Willem Albers,1,28
+Tae-Hwan Kim,1,28
+Su-Chun Cheng,1,28
+Peter S Craig,1,28
+Maren K Olsen,1,28
+Mark H Hansen,1,28
+William M Bolstad,1,28
+Peter E Rossi,1,28
+Michael D Larsen,1,28
+Torben G Andersen,1,28
+David Peel,1,28
+Robert G Aykroyd,1,28
+John C Wakefield,1,28
+Fangyu Gao,1,28
+Changbao Wu,1,28
+David J Cummins,1,28
+Shanggang Zhou,1,28
+Amy H Herring,1,28
+John S. Preisser,1,28
+James P. Hughes,1,28
+Kari Auranen,1,28
+Jin Cao,1,28
+Nicola G. Best,1,28
+Bruno Sansó,1,28
+Paul H. Kvam,1,28
+Wai-Kwong Cheang,1,28
+Jason A. Osborne,1,28
+Carlos Velasco,1,28
+David Poole,1,28
+Mary E. Putt,1,28
+Olivier Cappé,1,28
+James Robins,1,28
+Dan A. Black,1,28
+Ralph B. D'Agostino Jr.,1,28
+Zhide Fang,1,28
+Richard Gerlach,1,28
+Andrew S. Mugglin,1,28
+W. Yung,1,28
+Matteo Fischetti,1,28
+Melanie M. Wall,1,28
+Gilles Celeux,1,28
+Jorma Rissanen,1,28
+Zachary G. Stoumbos,1,28
+Bert Gunter,1,28
+Vijay Nair,1,28
+Verena M. Trenkel,1,28
+Jason P. Fine,1,28
+C. Hendricks Brown,1,28
+Sarah M. Gray,1,28
+Shuying Li,1,28
+Wolfgang Polonik,1,28
+Henry S. Lynn,1,28
+Janice M. Weinberg,1,28
+Peter E. Roosi,1,28
+Marco Bonetti,1,28
+Jon D. Cohen,1,28
+Rajeev H. Dehejia,1,28
+G. S. Datta,1,28
+Stuart R. Lipsitz,1,28
+Shu-Hui Chang,1,28
+S. Zhang,1,28
+Donna K. Pauler,1,28
+P. J. Brown,1,28
+Bernard Garel,1,28
+J. M. Robins,1,28
+Thomas H. Scheike,1,28
+William Navidi,1,28
+Helena Geys,1,28
+Li Gan,1,28
+D. V. Glidden,1,28
+R. G. Aykroyd,1,28
+Claudia Becker,1,28
+Luis Ángel García-Escudero,1,28
+Peter Bajorski,1,28
+Eric T. Bradlow,1,28
+Marcel Das,1,28
+Nelida Ferretti,1,28
+William H. Chang,1,28
+Irène Gijbels,1,28
+Arminda Lucia Siqueira,1,28
+Ma. Zenia N. Agustin,1,28
+Michael D. Ernst,1,28
+Tetsuhisa Miwa,1,28
+Edmund T. M. Ng,1,28
+Michael R. Kosorok,1,28
+Jacqueline Cohen,1,28
+Sandra J. Lee Research Scientist,1,28
+Joseph G. Ibrahim Associate Professor,1,28
+Daniel B. Hall,1,28
+Colin O. Wu,1,28
+S. R. Paul,1,28
+Elías Moreno,1,28
+Peter J. Haas,1,28
+Janis Hardwick,1,28
+Cheryl L. Faucett,1,28
+Erik P. Pulkstenis,1,28
+Alan L. Montgomery,1,28
+Simon Byers,1,28
+Jean D. Opsomer,1,28
+Mark J. van der Laan,1,28
+Daowen Zhang,1,28
+Brendan P. M. McCabe,1,28
+Hong Li,1,28
+Mark E. Glickman,1,28
+Dana P. Goldman,1,28
+Trevor C. Bailey,1,28
+Mark Hansen,1,28
+W. Stute,1,28
+Sally Wood,1,28
+Keming Yu,1,28
+Abhijit Dasgupta,1,28
+Y. Benjamini,1,28
+Glen A. Satten,1,28
+Yoshihide Kakizawa,1,28
+Shahar Boneh,1,28
+Yining Wang,1,28
+Michael P. Fay,1,28
+Beth Osborne Daponte,1,28
+Adam B. Olshen,1,28
+Paul S. Albert,1,28
+Ramón Durazo-Arvizu,1,28
+Christopher Jennison,1,28
+Djokouri A. Kouassi,1,28
+Karen Bandeen-roche,1,28
+C. B. Dean,1,28
+Carlo Berzuini,1,28
+Hugh A. Chipman,1,28
+Victor De Oliveira,1,28
+P. P. B. Eggermont,1,28
+Clifford B. Cordy,1,28
+Fred W. Huffer,1,28
+Denis Allard,1,28
+Oliver B. Linton,1,28
+Jean-François Durand,1,28
+Vipin Arora,1,28
+Zhao-Guo Chen,1,28
+Jiandong Lu,1,28
+K. Choi,1,28
+J. K. Ord,1,28
+Sharon-Lise T. Normand,1,28
+Christopher R. Bollinger,1,28
+Jeff Dominitz,1,28
+Donald B. Percival,1,28
+Peter A. W. Lewis,1,28
+Thomas J. Diciccio,1,28
+Jon A. Wellner,1,28
+K. F. Lam,1,28
+Mousumi Banerjee,1,28
+Elvezio Ronchetti,1,28
+Debasis Sengupta,1,28
+Mary Jane Emond,1,28
+Maria Kateri,1,28
+Alexander Balke,1,28
+Shiqing Ling Ph.D,1,28
+Linda M. Zeger,1,28
+Karen M. Higgins,1,28
+C. Y. Wang,1,28
+Peter W. Gieser,1,28
+Robert Bartoszyński,1,28
+Lance A. Waller,1,28
+Cindy L. Christiansen,1,28
+Saurabh Mukhopadhyay,1,28
+Claudia Cargnoni,1,28
+Steven M. Lewis,1,28
+John Monahan,1,28
+Vance Berger,1,28
+Thomas R. Belin,1,28
+Michael A. Proschan,1,28
+Wing-Kuen Tam,1,28
+Jie Chen,1,28
+Leah Flury,1,28
+Ke-Hai Yuan,1,28
+Amrik Shah,1,28
+Julie M. Legler,1,28
+Yutaka Yasui,1,28
+Glen Van Brummelen,1,28
+William B. Capra,1,28
+Smarajit Bose,1,28
+Zhen Luo,1,28
+Michael J. Schell,1,28
+Yi-Ping Chang,1,28
+Michael Evans,1,28
+S. C. Cheng,1,28
+Qi Zeng,1,28
+Maria-Pia Victoria-Feser,1,28
+Norman R. Swanson,1,28
+Robbert H. Renssen,1,28
+Haibo Zhou,1,28
+Michal Abrahamowicz,1,28
+S. M. Nusser,1,28
+Edward J. Bedrick,1,28
+Jingxian Chen,1,28
+Ann Cowling,1,28
+J. Olsson,1,28
+E. Olusegun George,1,28
+Show-Li Jan,1,28
+Jan Beirlant,1,28
+George C. Runger,1,28
+Darren J. Johnson,1,28
+Adele Cutler,1,28
+Mohammed N. Goria,1,28
+Halima Bensmail,1,28
+Els Goetghebeur,1,28
+D. T. Dunn,1,28
+W. Qian,1,28
+Fengchun Peng,1,28
+Michael D. Sinclair,1,28
+Barbara Wolfe,1,28
+Jeffrey S. Buzas,1,28
+Jenny Baglivo,1,28
+David M. Rocke,1,28
+Erik Bølviken,1,28
+Gerd Ronning,1,28
+W. Gonzàlez-Manteiga,1,28
+Laurence S. Magder,1,28
+Shulamith T. Gross,1,28
+Chen-Hsin Chen,1,28
+John G. Cragg,1,28
+Donald W. K. Andrews,1,28
+Michael J. Kahn,1,28
+Robert Zackin,1,28
+Charles Lawrence,1,28
+Mary Kathryn Cowles,1,28
+Christian P. Robert,1,28
+Tim K. Keyes,1,28
+Tom Y. M. Chiu,1,28
+Melinda McCann,1,28
+Geert Verbeke,1,28
+Shyamal Das Peddada,1,28
+Burkhardt Seifert,1,28
+R. Mohanty,1,28
+X. Joan Hu,1,28
+Robert Berk,1,28
+David L. Donoho,1,28
+Hélène Jacqmin-Gadda,1,28
+D. Ruppert,1,28
+E. Gutiérrez-Peña,1,28
+Bernard F. Cole,1,28
+Ingram Olkin,1,28
+Ying Huang,1,28
+John Gurland,1,28
+John M. Williamson,1,28
+Bernard D. Flury,1,28
+Patricia M. Grambsch,1,28
+Rick Chappell,1,28
+Gudmund Høst,1,28
+Pamela F. Schwartz,1,28
+Dale Bowman,1,28
+Fred Godtliebsen,1,28
+Xufeng Niu,1,28
+Christl A. Donnelly,1,28
+Ronald Bewley,1,28
+W. Ehm,1,28
+Richard Dykstra,1,28
+Andrew B. Forbes,1,28
+Shinichi Sakata,1,28
+D. B. Phillips,1,28
+Stephen L. Rathbun,1,28
+Ronald D. Lee,1,28
+R. C. Gentleman,1,28
+Peter Mesenbrink,1,28
+Greg M. Allenby,1,28
+Trevor Hastie,1,28
+Christophe Croux,1,28
+Dimitris N. Politis,1,28
+J. R. Cook,1,28
+A. Antoniadis,1,28
+J. H. Sepanski,1,28
+Rodney Brooks,1,28
+William S. Rayens,1,28
+K. F. Cheng,1,28
+R. A. Maller,1,28
+Zhaohai Li,1,28
+Roger J. Lewis,1,28
+David Madigan,1,28
+Filipa Duarte de Carvalho,1,28
+J. M. G. Taylor,1,28
+Roy N. Tamura,1,28
+Werner A. Stahel,1,28
+Dong K. Kim,1,28
+Morgan C. Wang,1,28
+David L. Woodruff,1,28
+Stéphane Heritier,1,28
+Carla Inclán,1,28
+B. U. Park,1,28
+Harold Sackrowitz,1,28
+Emad-Eldin A. A. Aly,1,28
+Henry H. S. Lu,1,28
+David A. Binder,1,28
+J. C. Fu,1,28
+Gilbert W. Bassett Jr.,1,28
+Lee A. Craig,1,28
+Brian P. Dawkins,1,28
+John J. McArdle,1,28
+G. Ridder,1,28
+Mark S. Handcock,1,28
+Nicholas P. Jewell,1,28
+Richard M. Huggins,1,28
+Stephen V. Stehman,1,28
+Taesung Park,1,28
+Ferdinand T. Wang,1,28
+Hari Mukarjee,1,28
+Sabyasachi Basu,1,28
+I. Poli,1,28
+Lora L. Bohn,1,28
+Augustine Kong,1,28
+Hani Doss,1,28
+Yudi Pawitan,1,28
+Alan M. Garber,1,28
+Jonathan P. Caulkins,1,28
+Daniel Barry,1,28
+Laurie Davies,1,28
+Jeffrey J. Gaynor,1,28
+M. P. Wand,1,28
+A. W. Bowman,1,28
+Christian Léger,1,28
+Eric W. Lee,1,28
+Pentti Saikkonen,1,28
+Kristen Meier,1,28
+P. T. Kim,1,28
+Barry I. Graubard,1,28
+Friedrich Pukelsheim,1,28
+Leping Zhou,1,28
+Richard Johnson,1,28
+Andrew T. A. Wood,1,28
+Paul P. Biemer,1,28
+Eduardo Engel,1,28
+R. Wang,1,28
+Guang Guo,1,28
+Roy T. St Laurent,1,28
+A. S. Azari,1,28
+R. J. O'Hara Hines,1,28
+Michael G. Schlax,1,28
+Hafida Boudjellaba,1,28
+J. S. Lin,1,28
+Sharon-Use Normand,1,28
+Gerhard Osius,1,28
+David E. A. Giles,1,28
+A. M. Dean,1,28
+Jean-Philippe Gwet,1,28
+Michael P. Windham,1,28
+Howard B. Newcombe,1,28
+Jeffrey D. Banfield,1,28
+Philip Hougaard,1,28
+Wallace Hendricks,1,28
+Keith A. Soper,1,28
+Gutti Jogesh Babu,1,28
+Peter Bickel,1,28
+Mary L. Lesperance,1,28
+Steven P. Ellis,1,28
+A. M. Hasofer,1,28
+John Fox,1,28
+Bruce E. Barrett,1,28
+Marcia L. Gumpertz,1,28
+Mary H. Mulry,1,28
+Frederick L. Hulting,1,28
+Victor Degruttola,1,28
+Peter Guttorp,1,28
+Francis X. Diebold,1,28
+Lonnie Magee,1,28
+R. Gentleman,1,28
+Ricardo A. Maronna,1,28
+Michael B. Dollinger,1,28
+Cathie Spino,1,28
+D. W. Müller,1,28
+Myra L. Samuels,1,28
+Robert C. Blattberg,1,28
+B. Efron,1,28
+Lynn A. Sleeper,1,28
+Joseph K. Haseman,1,28
+David E. Bloom,1,28
+Joseph W. McKean,1,28
+D. M. Andrews,1,28
+Elaine M. Keramidas,1,28
+Jonathan D. Cryer,1,28
+Ali S. Hadi,1,28
+William B. Fairley,1,28
+Michael J. Puma,1,28
+Gail Rubin,1,28
+K. Gordon,1,28
+David F. Findley,1,28
+Simon J. Sheather,1,28
+Maureen Tingley,1,28
+Kung-Yee Liang,1,28
+Edmund A. C. Crouch,1,28
+Lori A. Thombs,1,28
+Jane-Ling Wang,1,28
+Alan Donald,1,28
+Dawn Peters,1,28
+Philip F. Rust,1,28
+Robert L. Mason,1,28
+Uri Shmueli,1,28
+Gail Gong,1,28
+Jelke G. Bethlehem,1,28
+Herbert Edelsbrunner,1,28
+D. M. Reneau,1,28
+Barry E. Storer,1,28
+N. G. N. Prasad,1,28
+Gerhard Arminger,1,28
+David Strauss,1,28
+Russell Davidson,1,28
+Michael Cain,1,28
+Kenneth L. Lange,1,28
+Siddhartha R. Dalal,1,28
+James J. Chen,1,28
+Robert J. Boik,1,28
+Christopher J. Williams,1,28
+Stephan Lewandowsky,1,28
+Patrick A. Thompson,1,28
+Chihwa Kao,1,28
+Luke Tierney,1,28
+J. Cleland,1,28
+Linda E. Archer,1,28
+Michael Budde,1,28
+Gregory J. Carr,1,28
+Chris Gennings,1,28
+Myrto Lefkopoulou,1,28
+Eva Skovlund,1,28
+Christine Waternaux,1,28
+Mark D. Schluchter,1,28
+Dean Mountain,1,28
+J. B. F. Field,1,28
+F. C. Drost,1,28
+Roger Peck,1,28
+Terry E. Dielman,1,28
+Hannu Oja,1,28
+Lyn R. Whitaker,1,28
+Hongsuk Jorn,1,28
+Patrick D. Bourke,1,28
+N. J. Scheers,1,28
+J. C. Naylor,1,28
+Daniel O. Stram,1,28
+Patrick L. Brockett,1,28
+Terrence Kinal,1,28
+Larry Long,1,28
+Kwok-Leung Tsui,1,28
+Peter Diggle,1,28
+Mohamed M. T. Limam,1,28
+P. J. De Jongh,1,28
+Michael D. Conerly,1,28
+Charles J. Monlezun,1,28
+Paul Shaman,1,28
+Lars Peter Hansen,1,28
+S. R. Dalal,1,28
+Chong Sun Hong,1,28
+Ørnulf Borgan,1,28
+George E. Battese,1,28
+P. C. B. Phillips,1,28
+John B. Burbidge,1,28
+Jan F. Bjørnstad,1,28
+C. F. J. Wu,1,28
+Alan P. Fenech,1,28
+Brenda G. Cox,1,28
+Glenn W. Harrison,1,28
+M. Davidian,1,28
+Alexander Shapiro,1,28
+Janet Wittes,1,28
+Karim F. Hirji,1,28
+Shelley B. Bull,1,28
+I. R. James,1,28
+Nan M. Laird,1,28
+Yuchung J. Wang,1,28
+Tin Chiu Chua,1,28
+T. S. Karmel,1,28
+Mark Dickie,1,28
+J. Marroquin,1,28
+Thomas Diciccio,1,28
+David Edwards,1,28
+Miguel Villalobos,1,28
+J. C. Van Houwelingen,1,28
+Murray K. Clayton,1,28
+Thomas R. Fleming,1,28
+Lawrence R. Carter,1,28
+Timothy M. Morgan,1,28
+James M. Lepkowski,1,28
+Donald A. Pierce,1,28
+N. R. Draper,1,28
+Eugene H. Blackstone,1,28
+G. Andreatta,1,28
+H. Y. Chiu,1,28
+Maxwell L. King,1,28
+Joachim Hartung,1,28
+J. Kleffe,1,28
+Dana L. Thomas,1,28
+Robert Kohn,1,28
+Sebastiao de Amorim,1,28
+Ashis Sen Gupta,1,28
+Mark R. Montgomery,1,28
+Robert F. Engle,1,28
+Charles D. Cowan,1,28
+Barry V. Bye,1,28
+Kent H. Marquis,1,28
+Frank M. Andrews,1,28
+Ronald F. Czaja,1,28
+Julio L. Peixoto,1,28
+Philip J. Brown,1,28
+L. Paul Fatti,1,28
+Michael N. Boyd,1,28
+Paul D. Koch,1,28
+William C. Louv,1,28
+Loren Cobb,1,28
+Kerrie Eileen Boyle,1,28
+Roy W. Whitmore,1,28
+J. D. Kalbfleisch,1,28
+M. Berman,1,28
+Beverley D. Causey,1,28
+Naoto Kunitomo,1,28
+W. C. M. Kallenberg,1,28
+Cyrus R. Mehta,1,28
+Ching-Ming Yeh,1,28
+Gregory Campbell,1,28
+Carol J. Feltz,1,28
+S. M. Bendre,1,28
+Jerry A. Hausman,1,28
+Peter Burridge,1,28
+Fred D. Baker,1,28
+David A. Hsieh,1,28
+John R. Michael,1,28
+George Knafl,1,28
+Eugene M. Laska,1,28
+Dennis A. Brindley,1,28
+Ernest R. Montagne,1,28
+Guoying Li,1,28
+Andrew M. Isserman,1,28
+K. E. Basford,1,28
+Claudio Michelini,1,28
+Said E. Said,1,28
+Edward D. Lustbader,1,28
+Robert W. Keener,1,28
+J. F. Lancaster,1,28
+Bruce J. Collings,1,28
+William J. Butler,1,28
+Allan H. Murphy,1,28
+Paul A. Tukey,1,28
+Donald E. Stem Jr.,1,28
+Richard R. Picard,1,28
+Wayne A. Woodward,1,28
+Val Gebski,1,28
+Barbara McKnight,1,28
+Ronald L. Iman,1,28
+M. J. Morton,1,28
+Robert E. Johnson,1,28
+G. E. Bonney,1,28
+D. V. Hinkley,1,28
+D. A. Dickey,1,28
+Neville Davies,1,28
+W. B. Yeo,1,28
+David J. Gates,1,28
+Joseph Glaz,1,28
+J. J. Mezrich,1,28
+David A. Freedman,1,28
+David W. Smith,1,28
+Barry R. James,1,28
+Martin Abba Tanner,1,28
+Mete Sirvanci,1,28
+Siu L. Hui,1,28
+Robert A. Ganse,1,28
+Stephen Vardeman,1,28
+Arthur Fries,1,28
+Philip J. Byrne,1,28
+Dipak K. Dey,1,28
+H. Liao,1,28
+J. F. McDonald,1,28
+C. Zachary Gilstein,1,28
+Demetrios A. Petrondas,1,28
+Jason C. Hsu,1,28
+Donald G. Edwards,1,28
+W. R. Bell,1,28
+Siamak Noorbaloochi,1,28
+KŌSei Iwase,1,28
+Glenn Shafer,1,28
+Arthur P. Dempster,1,28
+Cavell Brownie,1,28
+Bruce D. Fielitz,1,28
+Michael K. Salemi,1,28
+Michael R. Chernick,1,28
+John Mendelsohn,1,28
+James Flinn Crook,1,28
+Eric Slud,1,28
+Mervyn G. Marasinghe,1,28
+Edward P. Markowski,1,28
+J. S. Huang,1,28
+William E. Griffiths,1,28
+G. P. Patil,1,28
+John S. Greenlees,1,28
+William F. Eddy,1,28
+Arnold Barnett,1,28
+S. C. Hillmer,1,28
+Marco Wolfenson,1,28
+Gene H. Golub,1,28
+Jean E. Weber,1,28
+Kenneth Fairbanks,1,28
+Y. Y. Chen,1,28
+Walter W. Hauck,1,28
+J. Sethuraman,1,28
+Bernhard Flury,1,28
+Robert Engle,1,28
+Ronald A. Thisted,1,28
+Robert A. Leitch,1,28
+Janet M. Begun,1,28
+Peter J. Bickel,1,28
+S. J. Devlin,1,28
+Richard A. Kronmal,1,28
+Y. S. Sathe,1,28
+B. B. Aghevli,1,28
+Poduri S.R.S. Rao,1,28
+H. Malcolm Hudson,1,28
+Paul F. Velleman,1,28
+Fabian Hernandez,1,28
+John L. Bryant,1,28
+R. Butler,1,28
+John V. Grice,1,28
+Narayan R. Bhalerao,1,28
+Jessica M. Utts,1,28
+H. L. Koul,1,28
+J. E. Grimes,1,28
+Joseph P. Newhouse,1,28
+Henry F. Woltman,1,28
+Michael A. Simkowitz,1,28
+Danny D. Dyer,1,28
+Thomas J. Santner,1,28
+A. Clifford Cohen,1,28
+Thomas J. Tosch,1,28
+C. Hale,1,28
+Lea Friedman,1,28
+James Beckett III,1,28
+Douglas M. Dunn,1,28
+John F. Geweke,1,28
+N. Sedransk,1,28
+Robert Schoen,1,28
+Michael C. Costanza,1,28
+Robert H. Berk,1,28
+Julian Köllerström,1,28
+James B. McDonald,1,28
+Erwin M. Saniga,1,28
+James Wyckoff,1,28
+M. N. Bhattacharyya,1,28
+Ronald G. Marks,1,28
+Shelley L. Rasmussen,1,28
+Hollington T. Lu,1,28
+Robert E. Fay III,1,28
+Alexander Basilevsky,1,28
+Bimal Kumar Sinha,1,28
+J. J. Shuster,1,28
+Mary A. Hartz,1,28
+Kenneth J. Kopecky,1,28
+D. Holt,1,28
+David A. Dickey,1,28
+Fariborz Khorasani,1,28
+S. R. Searle,1,28
+M. J. Harrison,1,28
+Bengt Berlin,1,28
+Lorraine Denby,1,28
+W. B. Gragg,1,28
+Radhakrishnan J. Aiyar,1,28
+Joel W. Ager Jr.,1,28
+Abdalla T. El-Helbawy,1,28
+H. L. Agrawal,1,28
+Glenn A. Walker,1,28
+James R. Chromy,1,28
+David Griffiths,1,28
+William M. Visscher,1,28
+Charles G. Pfeifer,1,28
+F. R. K. Chung,1,28
+Stephen B. Taubman,1,28
+Gilbert Bassett Jr.,1,28
+Ricardo Maronna,1,28
+Gaston Mendoza,1,28
+Louise C. Lo,1,28
+Mark Gersovitz,1,28
+Anita A. Summers,1,28
+W. T. Dent,1,28
+William R. Dillon,1,28
+Bahadur Singh,1,28
+Steinar Bjerve,1,28
+Pierre Hansen,1,28
+Perla Subbaiah,1,28
+Min-Te Chao,1,28
+John H. Skillings,1,28
+Maria Elena Gonzalez,1,28
+Leroy Bailey,1,28
+Iris M. Shimizu,1,28
+Larry E. Toothaker,1,28
+F. M. Speed,1,28
+Karl E. Peace,1,28
+Shou-Hua Li,1,28
+James W. Evans,1,28
+J. L. Denny,1,28
+Thomas B. Fomby,1,28
+J. S. Maritz,1,28
+Gerald S. Rogers,1,28
+Ming-Mei Wang,1,28
+William T. Bielby,1,28
+Ernest H. Forman,1,28
+James W. Osterburg,1,28
+Richard W. Hill,1,28
+Walter W. Hauck Jr.,1,28
+Mitchell Gail,1,28
+Lon-Mu Liu,1,28
+Michael Bagshaw,1,28
+Richard F. Gunst,1,28
+Vasant P. Bhapkar,1,28
+James M. Boyett,1,28
+Robert F. White,1,28
+Philip K. Robins,1,28
+Neil E. Beckwith,1,28
+Norman R. Draper,1,28
+Rudolf G. Kreijger,1,28
+Grace Yang,1,28
+Robert B. Bendel,1,28
+A. Buse,1,28
+Thomas R. Bement,1,28
+Richard P. Chiacchierini,1,28
+Marlin U. Thomas,1,28
+A. K. Banerjee,1,28
+K. H. Pollock,1,28
+Dallas W. Anderson,1,28
+A. J. Kinderman,1,28
+V. Susarla,1,28
+Katherine L. Monti,1,28
+C. Asok,1,28
+Jacques H. Drèze,1,28
+Rolf D. Reiss,1,28
+Victor Hegemann,1,28
+S. K. Perng,1,28
+Jorge L. Mendoza,1,28
+Kanti V. Mardia,1,28
+Roger H. Bezdek,1,28
+William D. Watson Jr.,1,28
+W. P. Cleveland,1,28
+W. H. Somermeyer,1,28
+Peter B. Imrey,1,28
+George E. Policello II,1,28
+James E. Ertel,1,28
+Frederick W. Leysieffer,1,28
+Hubert J. Chen,1,28
+William Locander,1,28
+Gordon C. Rausser,1,28
+L. Breiman,1,28
+M. P. Singh,1,28
+James B. Kau,1,28
+R. D. Armstrong,1,28
+J. M. Chambers,1,28
+S. J. Press,1,28
+A. J. Goldstein,1,28
+Jurg Ott,1,28
+Phillip Bonacich,1,28
+D. M. Dunn,1,28
+Thomas A. Ryan Jr.,1,28
+Albert E. Beaton,1,28
+Charles C. Brown,1,28
+J. R. Green,1,28
+Alice Orcutt Nakamura,1,28
+W. S. Tsai,1,28
+Robert Radlow,1,28
+Michael S. Goodstadt,1,28
+Margaret Gurney,1,28
+J. D. Cryer,1,28
+Austin F. S. Lee,1,28
+Gopi C. Jain,1,28
+Maria E. Gonzalez,1,28
+L. L. Kupper,1,28
+Alain V. Bultez,1,28
+Robert Longworth Smith,1,28
+Howard Wainer,1,28
+Israel Einot,1,28
+Karl G. Jöreskog,1,28
+Winston K. Chow,1,28
+R. A. Leitch,1,28
+M. H. Smith,1,28
+James Dickey,1,28
+Gary C. McDonald,1,28
+Kocherlakota Subrahmaniam,1,28
+J. P. Basu,1,28
+Michael Tarter,1,28
+T. A. Dowling,1,28
+L. G. Godfrey,1,28
+J. N. Arvesen,1,28
+Robert A. Brown,1,28
+Richard D. Rippe,1,28
+Grace M. Carter,1,28
+Richard D. Warren,1,28
+G. D. A. Phillips,1,28
+M. Dutta,1,28
+Henry W. Block,1,28
+George F. Brown Jr.,1,28
+Martin W. Gillo,1,28
+Manfred Deistler,1,28
+Sylvan R. Wallenstein,1,28
+Irving John Good,1,28
+Samir K. Bhattacharya,1,28
+W. B. Cummings,1,28
+I. G. Evans,1,28
+M. S. Phadke,1,28
+Cliff J. Huang,1,28
+P. C. Chang,1,28
+James Heckman,1,28
+Richard D. Morgenstern,1,28
+Der-Ann Hsu,1,28
+Herbert Robbins,1,28
+M. R. Garey,1,28
+Lois E. Graff,1,28
+Somesh Das Gupta,1,28
+Balvir Singh,1,28
+R. J. Beckman,1,28
+Edi Karni,1,28
+Colin N. Park,1,28
+T. A. Derouen,1,28
+D. W. Balmer,1,28
+Howard Rockette,1,28
+C. Chatfield,1,28
+Edmund A. Gehan,1,28
+Edward L. Frome,1,28
+Fred C. Leone,1,28
+Emil Spjøtvoll,1,28
+Edward H. Wolf,1,28
+K. O. Bowman,1,28
+Ralph E. Folsom,1,28
+William J. Blot,1,28
+B. H. Eichhorn,1,28
+Lloyd Fisher,1,28
+Kantilal M. Patel,1,28
+R. Cote,1,28
+R. L. Sielken Jr.,1,28
+David A. Bogdanoff,1,28
+Kumar Jogdeo,1,28
+K. Alam,1,28
+Janet W. Campbell,1,28
+Michael R. Greenberg,1,28
+Lester B. Lave,1,28
+Ronald G. Bodkin,1,28
+David E. Wiley,1,28
+G. S. Maddala,1,28
+Amir Barnea,1,28
+T. D. Hartwell,1,28
+P. K. Hazra,1,28
+K. Raghunandanan,1,28
+O. C. Jenkins,1,28
+Urs R. Maag,1,28
+Carole A. Aldrich,1,28
+S. G. Carmer,1,28
+Alan B. Forsythe,1,28
+M. E. Bock,1,28
+R. A. Dayananda,1,28
+J. F. Malkovich,1,28
+Ralph B. D'Agostino,1,28
+Dar-Shong Hwang,1,28
+Gunnar Kulldorff,1,28
+W. Stefansky,1,28
+A. J. Coale,1,28
+J. Phillip Cooper,1,28
+Robert Messenger,1,28
+A. E. Bottoms,1,28
+Harry Kalven Jr.,1,28
+B. D. Fielitz,1,28
+D. B. Duncan,1,28
+E. C. Brindley Jr.,1,28
+Walter R. Pirie,1,28
+Arlo D. Hendrickson,1,28
+Bruce M. Bemis,1,28
+James S. Degracie,1,28
+G. L. Tietjen,1,28
+Stanley I. Grossman,1,28
+Benee F. Swindel,1,28
+Clive W. J. Granger,1,28
+M. T. Chao,1,28
+Robert H. Lochner,1,28
+Phoebus J. Dhrymes,1,28
+A. Dionne,1,28
+M. P. Gessaman,1,28
+James A. Stephenson,1,28
+O. Dale Williams,1,28
+Theodore P. Lianos,1,28
+Brian O'Neill,1,28
+R. E. Barlow,1,28
+T. A. Yancey,1,28
+J. Ramsey,1,28
+Charles H. Kraft,1,28
+J. C. Ahuja,1,28
+Duncan Bailey,1,28
+John T. Roscoe,1,28
+Satindar Kumar,1,28
+R. Kirk Steinhorst,1,28
+Ann F. S. Mitchell,1,28
+P. David Wilson,1,28
+Paul Taubman,1,28
+Gary M. Mullet,1,28
+G. R. Chase,1,28
+Fred B. Lempers,1,28
+Richard J. Light,1,28
+Y. Nagendra,1,28
+J. N. Darroch,1,28
+Harrison D. Weed Jr.,1,28
+R. D. Terrell,1,28
+J. Keilson,1,28
+Sheila R. Klatzky,1,28
+Kunio Yoshihara,1,28
+Harry H. Ku,1,28
+Vasant B. Waikar,1,28
+Gordon Antelman,1,28
+Douglas A. Zahn,1,28
+Peter Enis,1,28
+Thomas D. Burnett,1,28
+Huynh Huynh,1,28
+Harold W. Hager,1,28
+D. L. Bayless,1,28
+Sylvia Ostry,1,28
+Victor E. McZgee,1,28
+R. E. White,1,28
+K. L. Mehra,1,28
+John U. Farley,1,28
+T. M. Hammonds,1,28
+Russell S. Uhler,1,28
+H. Solomon,1,28
+Mindel C. Sheps,1,28
+M. L. Eaton,1,28
+George A. Milliken,1,28
+Paul Hinz,1,28
+Joseph L. Balintfy,1,28
+R. M. Leuthold,1,28
+Dan Bradu,1,28
+A. H. Munro,1,28
+J. D. Esary,1,28
+G. C. Tiao,1,28
+Richard B. Howe,1,28
+Martin Fox,1,28
+Max A. Bershad,1,28
+Ayala Cohen,1,28
+A. K. Jain,1,28
+S. W. Burch,1,28
+C. T. Ireland,1,28
+T. R. Bement,1,28
+Edward C. Posner,1,28
+George W. Bohrnstedt,1,28
+Maurice C. Bryson,1,28
+Ray A. Waller,1,28
+Derrick S. Tracy,1,28
+L. Engelman,1,28
+W. L. L'esperance,1,28
+O. Krafft,1,28
+Richard Bellman,1,28
+D. A. Sprott,1,28
+Gordon Booth,1,28
+N. Buckle,1,28
+Potluri Rao,1,28
+T. C. Lee,1,28
+J. Koerts,1,28
+G. B. Gray,1,28
+David B. Peizer,1,28
+R. Kronmal,1,28
+James R. Conner,1,28
+Richahd B. McHugh,1,28
+Carlos Toro-Vizcarrondo,1,28
+John J. Beauchamp,1,28
+Herbert T. Davis,1,28
+Dorian Feldman,1,28
+P. Krishnaswami,1,28
+A. L. Goel,1,28
+M. C. K. Tweedie,1,28
+W. L. Harkness,1,28
+Benjamin S. Duran,1,28
+H. P. Friedman,1,28
+A. H. El Mawaziny,1,28
+Mary Jean Bowman,1,28
+Abdel-Latif A. Abul-Ela,1,28
+R. J. Freund,1,28
+Ruth Z. Gold,1,28
+George A. Mihram,1,28
+Henry P. Decell Jr.,1,28
+Ganapati P. Patil,1,28
+A. J. McCulloch,1,28
+Lois Nelson Holloway,1,28
+N. Bhattacharya,1,28
+Marshall Hall,1,28
+P. V. Rao,1,28
+Pamela M. Morse,1,28
+Victor Niederhoffer,1,28
+David B. Duncan,1,28
+Rosa C. Meng,1,28
+William Wasserman,1,28
+T. O. Lewis,1,28
+J. A. Ballas,1,28
+John P. Gilbert,1,28
+Irene Hess,1,28
+Michael K. Evans,1,28
+G. G. Judge,1,28
+B. R. Bhat,1,28
+Frederick P. Stephan,1,28
+Richard A. Greenberg,1,28
+Glen D. Mellinger,1,28
+S. K. Bhattacharya,1,28
+George G. Tiao,1,28
+Joseph Gelzer,1,28
+C. A. Rohde,1,28
+Stephen M. Goldfeld,1,28
+Janace A. Speckman,1,28
+Isidore Eisenberger,1,28
+Robert A. Hultquist,1,28
+Albert Ando,1,28
+C. H. Kapadia,1,28
+S. A. Fellingham,1,28
+Thomas J. Rothenberg,1,28
+David Freeman,1,28
+C. S. Beightler,1,28
+Herman H. Fasteau,1,28
+George E. Bardwell,1,28
+Betty J. Flehinger,1,28
+J. W. Hopkins,1,28
+Edward G. Stockwell,1,28
+M. M. Lentner,1,28
+James H. Myers,1,28
+James N. Morgan,1,28
+Esther Schaeffer,1,28
+R. J. Taylor,1,28
+Donald W. Stilson,1,28
+Karl E. Taeuber,1,28
+Lee E. Preston,1,28
+Shanti S. Gupta,1,28
+Ruth W. Lees,1,28
+Carol B. Edwards,1,28
+Irma Adelman,1,28
+Edward Ames,1,28
+P. C. Leone,1,28
+Carol M. Jaeger,1,28
+Leroy Stanley Brenna,1,28
+Lowell E. Gallaway,1,28
+Rudolf J. Freund,1,28
+D. J. Thompson,1,28
+Bernard S. Pasternack,1,28
+Everett S. Lee,1,28
+Sidney Siegel,1,28
+Edward C. Bryant,1,28
+G. P. Steck,1,28
+W. A. Neiswangee,1,28
+C. R. Gates,1,28
+Bernard Ostle,1,28
+Harold Nisselson,1,28
+Tore Dalenius,1,28
+F. H. Tingey,1,28
+John B. Lansing,1,28
+Robert H. Hanson,1,28
+Marilyn Dunsing,1,28
+T. J. R. Hughes,1,28
+E. L. Kaplan,1,28
+M. H. Degroot,1,28
+Jean L. Pennock,1,28
+Albert H. Crosetti,1,28
+Myron J. Gordon,1,28
+Samuel Karlin,1,28
+Roger R. Baldwin,1,28
+Charles F. Carter,1,28
+J. R. Bainbridge,1,28
+Benjamin A. Barnes,1,28
+Alfred C. Kinsey and Associates,1,28
+H. C. Hamaker,1,28
+Valentine Appel,1,28
+Chester W. Topp,1,28
+Calvin F. Schmid,1,28
+Harold Barger,1,28
+A. M. Freudenthal,1,28
+Maurice H. Belz,1,28
+Samuel E. Cohen,1,28
+Theodore J. Bauer,1,28
+Edwin L. Grab,1,28
+J. Laderman,1,28
+M. J. R. Healy,1,28
+J. A. C. Brown,1,28
+Max E. Brunk,1,28
+O. Kempthorne,1,28
+Dan F. Waugh,1,28
+D. G. Horvitz,1,28
+R. C. Bose,1,28
+Robert B. Voight,1,28
+Samuel Weiss,1,28
+L. R. Klein,1,28
+D. Gale Johnson,1,28
+B. G. Greenberg Ph.D.,1,28
+Joseph A. Greenwood,1,28
+Jack Sherman,1,28
+Nicholas Metropolis,1,28
+Guy H. Orcutt,1,28
+Ronald Freedman,1,28
+J. Stevens Stock,1,28
+Marilyn Harris,1,28
+John A. Clausen,1,28
+George W. Brown,1,28
+"P. V. Sukhatme Ph.D., D.Sc.",1,28
+C. West Churchman,1,28
+Gertrude Bancroft,1,28
+Charles Stewart,1,28
+Bertram J. Black,1,28
+Oscar L. Amman,1,28
+Jack Laderman,1,28
+A. J. Jaffe,1,28
+Thomas I. Edwards,1,28
+C. Horace Hamilton,1,28
+Karl Karsten,1,28
+Patricia Daly,1,28
+William H. Mautz,1,28
+Beatrice A. Rogers,1,28
+Besse B. Day,1,28
+Harry Pelle Hartkemeier,1,28
+Virginia L. Galbraith,1,28
+Joel Dean,1,28
+Carl H. Fischer,1,28
+"Alfred N. Guertin F.A.S., F.A.I.A., A.C.A.S.",1,28
+Bruno Fels,1,28
+Chas W. Cotterman,1,28
+R. J. Myers,1,28
+Jesse M. Cutts,1,28
+Erika H. Schoenberg,1,28
+"Halbert L. Dunn M.D., Ph.D.",1,28
+H. Arthur Meyer,1,28
+Alfred Cowles 3rd,1,28
+Joseph Berkson M. D.,1,28
+Elmer B. Royer,1,28
+Theodore W. Schultz,1,28
+Evelyn G. Tough,1,28
+Leone Chesire,1,28
+Herbert S. Conrad,1,28
+Kimball Young,1,28
+S. J. Holmes,1,28
+Alice C. Hanson,1,28
+Ardis T. Monk,1,28
+E. M. Miller,1,28
+H. L. Rietz,1,28
+Loots I. Dublin,1,28
