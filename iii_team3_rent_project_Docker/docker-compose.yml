@@ -1,0 +1,50 @@
+version: "2"
+services:
+
+  mariadb: 
+    image: mariadb
+    container_name: mariadb1
+    command: mysqld --innodb-buffer-pool-size=200000000
+    environment:
+      - "MYSQL_USER=ben"
+      - "MYSQL_PASSWORD=ben"
+      - "MYSQL_ROOT_PASSWORD=1234"
+    volumes_from:
+      - storagedb
+    depends_on:
+      - storagedb
+
+  storagedb:
+    image: storagedb:0.0.1
+    container_name: storagedb1
+    command: [ "echo this is volume container"]
+
+  busybox:
+    image: busybox
+    volumes: 
+      - .:/backup 
+    volumes_from: 
+      - storagedb
+    command: tar xvf /backup/backup.tar
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    links:
+      - mariadb:db
+    ports:
+      - "81:80"
+  redis:
+    image: redis
+    container_name: redis1
+
+  jupyter:
+    image: jupyter/all-spark-notebook
+    restart: always
+    links: 
+      - mariadb:db
+      - redis:redis
+    command: start-notebook.sh --NotebookApp.token=''
+    ports:
+      - "9000:8888"
+    volumes:
+      - ./jupyter:/home/jovyan/work
